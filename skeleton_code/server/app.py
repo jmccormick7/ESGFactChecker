@@ -28,23 +28,26 @@ load_dotenv()
 def hello():
     return 'hello world'
 
-# @app.route('/messages', methods = ['GET'])
-# def getMessages():
-#     tweets = Tweet.query.all()
+@app.route('/messages', methods = ['GET'])
+def getData():
+    # Read the content of both files
+    with open("esgfactchecker/src/gpt_outputs/tesla.txt", "r") as f1, open("esgfactchecker/src/news_outputs/tesla.txt", "r") as f2:
+        file1_content = f1.read()
+        file2_content = f2.read()
 
-#     res = []
-#     for tweet in tweets:
-#         res.append(tweet.map())
+    # Return the content as a JSON response
+    return jsonify({
+        'GPT': file1_content,
+        'News': file2_content
+    })
 
-#     return jsonify(res)
-
-# @app.route('/add', methods = ['POST'])
-# def addMessage():
-#     data = request.get_json()
-#     tweet = Tweet(data['author'], data['tweet'])
-#     db.session.add(tweet)
-#     db.session.commit()
-#     return jsonify(tweet.map())
+@app.route('/add', methods = ['POST'])
+def addMessage():
+    data = request.get_json()
+    tweet = Tweet(data['author'], data['tweet'])
+    db.session.add(tweet)
+    db.session.commit()
+    return jsonify(tweet.map())
 
 # @app.route('/delete/<id>', methods = ['DELETE'])
 # def deleteMessage(id):
@@ -56,6 +59,8 @@ def hello():
 # with app.app_context():
 #     db.create_all()
 #     db.session.commit()
+ 
+    
 
 if __name__ == "__main__":
     app.run(debug=True, port=5000)
