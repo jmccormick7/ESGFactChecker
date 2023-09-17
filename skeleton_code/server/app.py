@@ -2,6 +2,7 @@ import os
 from flask import Flask, jsonify, request
 from dotenv import load_dotenv
 from flask_sqlalchemy import SQLAlchemy
+from db import PostgreSQLDatabase
 
 app = Flask(__name__)
 load_dotenv() 
@@ -24,23 +25,21 @@ load_dotenv()
 #     def map(self):
 #         return {'id': self.id, 'author': self.author, 'tweet': self.tweet}
 
+
+db = PostgreSQLDatabase('Foret','user', 'pass' , 'localhost', '5432')
+connection = db.connect()
+
 @app.route('/')
 def hello():
     return 'hello world'
 
-@app.route('/messages', methods = ['GET'])
-def getData():
-    # Read the content of both files
-    with open("esgfactchecker/src/gpt_outputs/tesla.txt", "r") as f1, open("esgfactchecker/src/news_outputs/tesla.txt", "r") as f2:
-        file1_content = f1.read()
-        file2_content = f2.read()
-
-    # Return the content as a JSON response
-    return "juice"
-    jsonify({
-        'GPT': file1_content,
-        'News': file2_content
-    })
+@app.route('/fetch-data', methods=['GET'])
+def fetch_data():
+    query_string = request.args.get('q', default="", type=str)
+    
+    # Use the query_string to fetch data from the PostgreSQL database
+    # For now, let's just return the query string as a placeholder
+    return jsonify({"query": query_string})
 
 @app.route('/add', methods = ['POST'])
 def addMessage():
