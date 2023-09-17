@@ -2,7 +2,7 @@ import os
 import openai
 from NewsScraper import *
 
-openai.api_key = "" #ENTER KEY HERE (pull from local env variable)
+openai.api_key = "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" #ENTER KEY HERE (pull from local env variable)
 
 #from a json representation of news articles, generate a string gpt input asking for a summary
 def generate_gpt_input(article_json):
@@ -38,7 +38,7 @@ def generate_gpt_output(prompt, output_name):
     output = response['choices'][0]['message']['content']
 
     #commit gpt response to memoization file:
-    outdirectory_path = "./gpt_outputs"
+    outdirectory_path = "./src/gpt_outputs"
     if not os.path.exists(outdirectory_path):
         os.makedirs(outdirectory_path)
     outfile = output_name.lower() + ".txt" #squash names to lowercase for lookup
@@ -51,7 +51,7 @@ def generate_gpt_output(prompt, output_name):
 
 #retrieves gpt output from name. checks for memoized response first
 def get_gpt(company_name):
-    directory_path = "./gpt_outputs"
+    directory_path = "./src/gpt_outputs"
 
     for filename in os.listdir(directory_path):
         if os.path.isfile(os.path.join(directory_path, filename)):

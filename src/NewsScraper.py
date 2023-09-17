@@ -68,7 +68,7 @@ def get_headlines(company_name):
 
 ## takes in `article_list` of (title, summary) tuples and outputs it into a file called <output_name>.txt
 def format_headlines(article_json, output_name):
-    outdirectory_path = "./news_outputs"
+    outdirectory_path = "./src/news_outputs"
     if not os.path.exists(outdirectory_path):
         os.makedirs(outdirectory_path)
     outfile = output_name.lower() + ".txt" #squash names to lowercase for lookup
@@ -84,7 +84,7 @@ def format_headlines(article_json, output_name):
     
 # returns a json
 def get_news(company_name):
-    directory_path = "./news_outputs"
+    directory_path = "./src/news_outputs"
 
     for filename in os.listdir(directory_path):
         if os.path.isfile(os.path.join(directory_path, filename)):
