@@ -36,7 +36,8 @@ def getData():
         file2_content = f2.read()
 
     # Return the content as a JSON response
-    return jsonify({
+    return "juice"
+    jsonify({
         'GPT': file1_content,
         'News': file2_content
     })

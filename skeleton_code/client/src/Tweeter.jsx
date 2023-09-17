@@ -40,7 +40,7 @@ export default class App extends React.Component {
 
   handleSubmit = () => {
     fetch("/api/add", {
-      method: "POST",
+      method: "GET",
       headers: { "Content-Type": "application/json" },
       body: JSON.stringify({
         author: this.state.author,
