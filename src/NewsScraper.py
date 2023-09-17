@@ -87,13 +87,13 @@ def format_headlines(article_json, output_name):
 def get_news(company_name):
     directory_path = "./src/news_outputs"
 
-    # for filename in os.listdir(directory_path):
-    #     if os.path.isfile(os.path.join(directory_path, filename)):
-    #         if company_name.lower() in filename:
-    #             print("cached")
-    #             with open(os.path.join(directory_path, filename), "r") as file:
-    #                 jsonData = json.load(file)
-    #                 return jsonData
+    for filename in os.listdir(directory_path):
+        if os.path.isfile(os.path.join(directory_path, filename)):
+            if company_name.lower() in filename:
+                print("cached")
+                with open(os.path.join(directory_path, filename), "r") as file:
+                    jsonData = json.load(file)
+                    return jsonData
 
     print("fetched")       
     return json.loads(format_headlines(get_headlines(company_name), company_name))

@@ -64,5 +64,5 @@ def get_gpt(company_name):
     print("fetched")       
     return generate_gpt_output(generate_gpt_input(get_news(company_name)), company_name)
 
-firm_name = "Chevron"
+firm_name = "Blackstone"
 get_gpt(firm_name)
