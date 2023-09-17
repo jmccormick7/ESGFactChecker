@@ -85,21 +85,23 @@ export default class App extends React.Component {
 
     return (
       <div className="app">
+        <div className="title">Foret API</div>
+        <div className="body">Try our api below</div>
         <div className="tweet-box">
           <input
             value={author}
             onChange={this.handleAuthorChange}
             className="tweet-box-author"
-            placeholder="Author"
+            placeholder="Company"
           />
-          <textarea
+          {/* <textarea
             value={tweet}
             onChange={this.handleTweetChange}
             className="tweet-box-input"
             placeholder="Tweet 🐦"
-          ></textarea>
+          ></textarea> */}
           <div className="tweet-box-actions">
-            <span className="tweet-box-length">{tweet.length} / 280</span>
+            {/* <span className="tweet-box-length">{tweet.length} / 280</span> */}
             <button
               onClick={this.handleSubmit}
               disabled={!canSubmit}
@@ -109,7 +111,7 @@ export default class App extends React.Component {
             </button>
           </div>
         </div>
-        <div className="tweets">
+        {/* <div className="tweets">
           {tweets.length > 0
             ? tweets.map((tweet, idx) => (
                 <div className="tweet" key={"tweet" + idx}>
@@ -127,7 +129,7 @@ export default class App extends React.Component {
                 </div>
               ))
             : "Be the first to tweet..."}
-        </div>
+        </div> */}
       </div>
     );
   }
