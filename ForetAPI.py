@@ -13,7 +13,7 @@ class ForetAPI():
     def getNewsJSON(self):
         self.newsJSON =  NewsScraper.get_news(self.company_name)
     
-    def getNewsSummary(self)
+    def getNewsSummary(self):
         self.newsGPT = NewsSummarizer.get_gpt(self.company_name)
 
     def getESG(self, JSONList:list): 
