@@ -4,151 +4,176 @@
             "title": "Microsoft Will Use Carbon-Absorbing Rocks to Meet Climate Goals",
             "summary": "Distribution and use of this material are governed by our Subscriber Agreement and by copyright law.",
             "source_name": "Wall Street Journal",
-            "url": "https://www.wsj.com/us-news/climate-environment/microsoft-will-use-carbon-absorbing-rocks-to-meet-climate-goals-57ea802a"
+            "url": "https://www.wsj.com/us-news/climate-environment/microsoft-will-use-carbon-absorbing-rocks-to-meet-climate-goals-57ea802a",
+            "date": "2023-09-07 09:38:02+00:00"
         },
         {
             "title": "Microsoft Will Use Carbon-Absorbing Rocks to Meet Climate Goals",
             "summary": "Most of the world\u2019s efforts to remove carbon from the atmosphere use giant, vacuum-like devices that suck in air and isolate the carbon. The tech company said Thursday it agreed to buy credits from startup Heirloom Carbon for the removal of up to 315,000 metric tons of carbon dioxide over 10 years. Early this year, the company said carbon it removed from the air was successfully stored in concrete by a Canadian startup called CarbonCure, an industry first. Oil company Occidental Petroleum also has committed billions of dollars to carbon removal and recently said it would acquire direct-air capture technology startup Carbon Engineering for about $1.1 billion. As with wind and solar energy, Microsoft expects carbon removal will see technology improvements and cost reductions over time, said Brian Marrs, the company\u2019s senior director of energy and carbon.",
             "source_name": "Live Mint",
-            "url": "https://www.livemint.com/industry/microsoft-will-use-carbon-absorbing-rocks-to-meet-climate-goals-11694088276595.html"
+            "url": "https://www.livemint.com/industry/microsoft-will-use-carbon-absorbing-rocks-to-meet-climate-goals-11694088276595.html",
+            "date": "2023-09-07 12:12:07+00:00"
         },
         {
             "title": "Phoenix Energy Technologies' Carbon Manager\u2122 Now Available on Microsoft Sustainability Manager",
             "summary": "IRVINE, Calif., January 27, 2023 BUSINESS WIRE )--Phoenix Energy Technologies (\"Phoenix Energy\"), a leading provider of Enterprise Energy Management (EEM) Software and Solutions today announced it is now a Microsoft Solution Provider on the Microsoft AppSource, Azure Marketplace, and Microsoft Sustainability Manager. Microsoft business customers can now purchase Phoenix Energy Technologies' Carbon Manager\u2122 application and its EnterpriseDX\u00ae Smart Building analytics platform directly through the Microsoft Marketplace to take greater control of their building assets.\n  \"\n  Phoenix Energy Technologies' EnterpriseDX , a Smart Building data exchange platform with IoT Data Analytics, and its Carbon Manager smart building application are built to integrate with a variety of solutions, including those offered by Microsoft and are offered on AppSource . \"Phoenix Energy Technologies' Microsoft Co-sell ready status gives commercial marketplace customers access to powerful data analytics applications that allow for enterprise-wide visibility to reduce energy costs and mitigate carbon impact while increasing comfort,\" said Glen Schrank, CEO of Phoenix Energy Technologies. As a solution compatible with Azure, EnterpriseDX is also available on the Azure Marketplace\n  The EnterpriseDX Smart Building Platform controls, manages, and monitors thousands of strategically targeted data points from IoT facilities equipment including HVAC, lighting, refrigeration, and sensors.",
             "source_name": "Yahoo! Finance News",
-            "url": "https://finance.yahoo.com/news/phoenix-energy-technologies-carbon-manager-133000107.html"
+            "url": "https://finance.yahoo.com/news/phoenix-energy-technologies-carbon-manager-133000107.html",
+            "date": "2023-01-27 17:21:36+00:00"
         },
         {
             "title": "Microsoft CEO details progress on diversity and inclusion",
             "summary": "Microsoft CEO Satya Nadella discusses the tech giant's process for hiring and retaining a diverse workforce at the Yahoo Finance All Markets Summit.\n In order to go make progress on it, one of the things that we do is really create transparency around these goals. So in some sense, Microsoft's own goals around representation are all about ensuring that we have a very diverse workforce that then allows us to build our products and services that empower the world, which is our mission. And one of the things that we're also focused on is not just about bringing people in, it's also about the inclusion, right?\n And one of the things I also like is each year we publish more data, so there's more transparency.",
             "source_name": "Hk Finance Yahoo",
-            "url": "https://hk.finance.yahoo.com/video/microsoft-ceo-details-progress-diversity-212323868.html"
+            "url": "https://hk.finance.yahoo.com/video/microsoft-ceo-details-progress-diversity-212323868.html",
+            "date": "2022-10-17 22:39:35+00:00"
         },
         {
             "title": "Cognizant collaborates with Microsoft to accelerate sustainability transformation",
             "summary": "Companies showcase the latest solution at COP27\nTEANECK, N.J., Nov. 7, 2022 /PRNewswire/ -- Cognizant is expanding its collaboration with Microsoft to accelerate both digital and sustainability transformations through a new solution \u2013 the Cognizant\u00ae Sustainability Accelerator, powered by the Microsoft Cloud and Microsoft Cloud for Sustainability. Story continues\n\"We are focused on accelerating progress to realize a more sustainable future, and our collaboration with Cognizant's Sustainability practice, to bring the innovative Cognizant\u00ae\u00a0Sustainability Accelerator to market will provide customers with data driven insights so they can make decisions and implement the digital solutions that will help them accurately measure and report on their sustainability goals and progress,\"\u00a0says Elisabeth Brinton, Microsoft Corporate Vice President, Sustainability.\n The Cognizant\u00ae Sustainability Accelerator automates the collection of data and provides valuable analytics that allow clients to track and take action on their sustainability goals. \"The Cognizant\u00ae\u00a0Sustainability Accelerator, built on the Microsoft Cloud for Sustainability, is designed to significantly accelerate the implementation of sustainability data acquisition and visualization. Utilizing Microsoft Sustainability Manager, Cognizant delivers end-to-end capabilities required to automate the collection, analysis and reporting of sustainability efforts.",
             "source_name": "Yahoo UK",
-            "url": "https://uk.finance.yahoo.com/news/cognizant-collaborates-microsoft-accelerate-sustainability-171700132.html"
+            "url": "https://uk.finance.yahoo.com/news/cognizant-collaborates-microsoft-accelerate-sustainability-171700132.html",
+            "date": "2022-11-07 17:23:53+00:00"
         },
         {
             "title": "Increasing sustainability for your Microsoft workloads on AWS",
             "summary": "At re:Invent 2021, Amazon Web Services (AWS) launched the sustainability pillar as part of the AWS Well-Architected framework. Running Microsoft workloads on more modern Amazon EC2 instances helps decrease AWS data center energy consumption, increase sustainability both in and of the cloud.\n\n By using these design principles, you can strengthen sustainability outcomes for your Microsoft workloads running on AWS services while still balancing security, cost, performance, reliability, and operational excellence.\n\n Sustainability in the cloud is a continuous effort, focused primarily on energy usage and efficiency of all components of a workload, by striving for maximum utilization of the provisioned resources, while minimizing the total needed. Then, Compute Optimizer determines how the workload would have performed on various hardware platforms (e.g., Amazon EC2 instance types) or by using different configurations (e.g. Amazon EBS volume IOPS settings, and AWS Lambda function memory sizes) to offer recommendations.",
             "source_name": "Amazon Web Services Blog",
-            "url": "https://aws.amazon.com/blogs/modernizing-with-aws/increasing-sustainability-microsoft-workloads-aws/"
+            "url": "https://aws.amazon.com/blogs/modernizing-with-aws/increasing-sustainability-microsoft-workloads-aws/",
+            "date": "2022-11-02 20:40:52+00:00"
         },
         {
             "title": "Google and Microsoft add more renewable energy for datacenters",
             "summary": "Google and Microsoft have both invested in sizable renewable energy contracts to power their data centers.\n\n According to The Register (opens in new tab), Google has signed a 12-year 100MW corporate power purchase agreement with Scottish offshore wind development called \"Moray West\", \u00a0in Scotland\u2019s relatively remote Moray Firth region.\n\n Google said that the latest agreement will mean that it's UK cloud region will join just six other regions - including Finland, Iowa, Montreal, Spain, and Toronto - that will operate at or near 90 percent carbon-free energy from 2025 onwards. Microsoft likewise signed its own power purchase agreement (PPAs) in Ireland that covers more than 900MW of new renewable electricity, making the announcement on its European Cloud Features Blog (opens in new tab).\n\n Matt Brittin, president of Google EMEA, said his company targets \"a goal of operating entirely on carbon-free energy by 2030\" and that \"in the UK, we\u2019ll be running on at or near 90 percent carbon-free energy in 2025\".",
             "source_name": "TechRadar",
-            "url": "https://www.techradar.com/news/google-and-microsoft-add-more-renewable-energy-for-datacenters"
+            "url": "https://www.techradar.com/news/google-and-microsoft-add-more-renewable-energy-for-datacenters",
+            "date": "2022-11-25 16:17:00+00:00"
         },
         {
             "title": "The promise and peril of Microsoft's ESG policy plays",
             "summary": "En este art\u00edculo:  MSFT  It can be hazardous these days for companies to speak out publicly on ESG matters. Here's how much to save This is how much money you need to earn annually to comfortably buy a $600,000 home\n  Nakagawa, the company's chief sustainability officer, this week called on \u201call governments to adopt firm carbon and electricity policy positions.\u201d Such policies, geared to accelerate the green energy transition, should allow companies\u2014including Microsoft\u2014to succeed in their journey to net zero. But she acknowledges that without a policy boost, Microsoft's future sustainability reports will not look as rosy\u2014or green\u2014as the company had said they would.\n   In the company's latest environmental sustainability report , issued the same day as Nakagawa's call to accelerate the green energy transition, the company had to admit its progress towards net zero was too sluggish.",
             "source_name": "Yahoo! Finanzas Espana (Spanish)",
-            "url": "https://es.finance.yahoo.com/news/promise-peril-microsoft-esg-policy-152305832.html"
+            "url": "https://es.finance.yahoo.com/news/promise-peril-microsoft-esg-policy-152305832.html",
+            "date": "2023-05-12 15:47:28+00:00"
         },
         {
             "title": "Amazon follows Microsoft, investing big in carbon capture",
             "summary": "After a recent infusion of government money into technology that sucks carbon out of the air, big business is getting in as well.\n  Amazon announced Tuesday that it will help fund the world's largest deployment of direct air capture (DAC) technology by purchasing a quarter of a million metric tons of carbon removal over the next decade from STRATOS, the first DAC plant from 1PointFive, a carbon removal technology company. A quarter of a million metric tons of carbon dioxide is equivalent to the emissions in one year from 55,633 gasoline-powered cars, according to the EPA.\n  Amazon, through its Climate Pledge Fund, is also investing in CarbonCapture Inc., a climate tech firm that is helping to accelerate commercial deployment of new DAC materials to absorb carbon.\n   \u201cAs an investor in and customer of Heirloom, we believe that Heirloom's technical approach and plan are designed for rapid iteration to help drive down the cost of large-scale Direct Air Capture at the urgent pace needed to meet the goals of the Paris Agreement,\u201d Brian Marrs, Microsoft's senior director of energy and carbon, said in a release.\n  While these are some of the largest financial commitments to DAC, scientists say that worldwide, it's necessary to remove about 1 trillion tons of carbon dioxide from the atmosphere in this century in order to keep global warming below the 1.5 degrees Celsius-limit set by the Paris Agreement, according to the Intergovernmental Panel on Climate Change (IPCC).\n   \u201cWith these two new investments in direct air capture, we aim to target emissions we can't otherwise eliminate at their source,\u201d Kara Hurst, Amazon's VP of worldwide sustainability, said in a release.",
             "source_name": "CNBC",
-            "url": "https://www.cnbc.com/2023/09/12/amazon-follows-microsoft-investing-big-in-carbon-capture.html"
+            "url": "https://www.cnbc.com/2023/09/12/amazon-follows-microsoft-investing-big-in-carbon-capture.html",
+            "date": "2023-09-12 12:31:21+00:00"
         },
         {
             "title": "The promise and peril of Microsoft's ESG policy plays",
             "summary": "Nakagawa, the company's chief sustainability officer, this week called on \u201call governments to adopt firm carbon and electricity policy positions.\u201d Such policies, geared to accelerate the green energy transition, should allow companies\u2014including Microsoft\u2014to succeed in their journey to net zero. Then they got caught in the political crossfire over climate policies, faced bans , and changed tack\n  Does Microsoft's stance open a new chapter in the discussion on whether and how companies, especially those with $2 trillion in market capital, can and should weigh on public policy related to ESG? Before speaking out, the company asks itself the following questions, she said:\n  - Is it a policy issue that impacts our customers and their use of our or similar technology?\n  - Is it an issue that impacts our employees and their ability to work and live in the community?\n  - Does it impact the rest of our business?",
             "source_name": "Yahoo! Finance News",
-            "url": "https://finance.yahoo.com/news/promise-peril-microsoft-esg-policy-152305832.html"
+            "url": "https://finance.yahoo.com/news/promise-peril-microsoft-esg-policy-152305832.html",
+            "date": "2023-05-11 18:48:16+00:00"
         },
         {
             "title": "Puneet Chandok to assume responsibilities from predecessor Anant Maheshwari at Microsoft",
             "summary": "August 01, 2023 10:12 pm | Updated 10:12 pm IST - Bengaluru\n\nMicrosoft has appointed Puneet Chandok as corporate vice-president of Microsoft India and South Asia effective September 1.\n\n Mr. Chandok joins Microsoft from AWS, where he led the company\u2019s India and South Asia business, working closely with enterprises, digital businesses, start-ups, and SMBs to help them reduce technical debt, bring in agility, and innovate. Mr. Chandok will oversee the integration of Microsoft\u2019s businesses across South Asia, including Bangladesh, Bhutan, Maldives, Nepal, and Sri Lanka, further boosting the company\u2019s presence in the region, while deepening its focus on key industries through a customer-centric approach with generative AI at its core.\n\nends Prior to this, he was a partner at McKinsey in India and Asia, and also held senior regional and global roles in IBM. He will assume the operational responsibilities from his predecessor Anant Maheshwari who quit Microsoft recently.",
             "source_name": "Hindu",
-            "url": "https://www.thehindu.com/business/puneet-chandok-to-assume-responsibilities-from-predecessor-anant-maheshwari-at-microsoft/article67147540.ece"
+            "url": "https://www.thehindu.com/business/puneet-chandok-to-assume-responsibilities-from-predecessor-anant-maheshwari-at-microsoft/article67147540.ece",
+            "date": "2023-08-01 16:48:56+00:00"
         },
         {
             "title": "Google, Microsoft to use renewable energy sources in data centres",
             "summary": "Google has signed a power purchase agreement (PPA) with Engie, a French utility company, for 100 MW of energy generated by the Moray West offshore wind farm in Scotland to power its UK operations.\n According to 'The Register', Google has signed a power purchase agreement (PPA) with Engie, a French utility company, for 100 MW of energy generated by the Moray West offshore wind farm in Scotland to power its UK operations.   Google and Microsoft have both announced new agreements to lower their IT operations' carbon footprint by using renewable energy sources in their data centres.   SoftBank subsidiary SB Energy signed a deal with Google for 900MW of solar power to power a Texas data centre, while Microsoft recently entered into a 20-year agreement with AES Corporation to supply its data centres in California with renewable energy from 110 MW solar and 55 MW four-hour storage projects.   Google claimed that the new agreements will bring the company closer to its goal of running its UK offices and cloud regions entirely on carbon-free energy sources by 2030.",
             "source_name": "Energy Economictimes",
-            "url": "https://energy.economictimes.indiatimes.com/news/renewable/google-microsoft-to-use-renewable-energy-sources-in-data-centres/95809153"
+            "url": "https://energy.economictimes.indiatimes.com/news/renewable/google-microsoft-to-use-renewable-energy-sources-in-data-centres/95809153",
+            "date": "2022-11-27 15:24:35+00:00"
         },
         {
             "title": "Seeq Announces the Seeq Solution for Microsoft Sustainability Manager",
             "summary": "The solution enables sustainability teams to extend the power of Microsoft Sustainability Manager, a Microsoft Cloud for Sustainability solution, to integrate time series process data preparation, analysis, and continuous improvement, reducing the environmental impact of process industry operations.\n   By leveraging the new Seeq Solution for Microsoft Sustainability Manager, these organizations can extend this experience by radically decreasing data connectivity, preparation, and analytics efforts.\n   \"The Seeq Solution for Microsoft Sustainability Manager is the latest of our solutions built on the Seeq platform to make time series data insights available to all stakeholders for improved outcomes in process manufacturing.\" Sustainability teams can seamlessly access this contextualized data within Microsoft Sustainability Manager to track direct (Scope 1) and indirect (Scope 2) emissions for reports and to set and track accurate emissions reduction goals.",
             "source_name": "Yahoo! Finance News",
-            "url": "https://finance.yahoo.com/news/seeq-announces-seeq-solution-microsoft-132700341.html"
+            "url": "https://finance.yahoo.com/news/seeq-announces-seeq-solution-microsoft-132700341.html",
+            "date": "2023-04-11 14:01:53+00:00"
         },
         {
             "title": "Microsoft will pay to capture carbon from burning wood",
             "summary": "Microsoft just backed a big plan to capture carbon dioxide emissions from a wood-burning power plant. With Microsoft\u2019s help, \u00d8rsted was able to nab an even bigger, 20-year contract with the Danish Energy Agency (DEA) to capture CO2 emissions from Asn\u00e6s in western Zealand and a second power plant near Copenhagen. Without Microsoft\u2019s support, \u00d8rsted wouldn\u2019t have been able to install carbon capture devices at its power plant. Today, the tech giant announced a deal with Danish energy company \u00d8rsted to purchase credits representing 2.76 million metric tons of carbon dioxide captured at \u00d8rsted\u2019s Asn\u00e6s Power Station over 11 years.\n\n It\u2019s one of the biggest deals any company has made to date to draw down carbon dioxide emissions\n\nBut technology to capture carbon dioxide emissions is still nascent, and some environmental groups and researchers are skeptical that the strategy Microsoft just helped to fund can be an effective way to tackle climate change.",
             "source_name": "The Verge",
-            "url": "https://www.theverge.com/2023/5/15/23724418/microsoft-carbon-capture-burning-wood"
+            "url": "https://www.theverge.com/2023/5/15/23724418/microsoft-carbon-capture-burning-wood",
+            "date": "2023-05-15 22:08:07+00:00"
         },
         {
             "title": "Microsoft's forecast suggests gloomy tech environment will continue",
             "summary": "Microsoft CEO Satya Nadella leaves the Elysee Palace after a meeting with the French President Emmanuel Macron in Paris on May 23, 2018.\n\n The slowdown that started in December should also carry through to Q3 results for Windows commercial products and cloud services, a category that includes Windows volume licenses for businesses, Hood said. Her forecast included flat revenue for Windows commercial products and cloud services, compared with a decline of 3% in the fiscal second quarter.\n\n In particular, he company saw less growth than expected in Microsoft 365 productivity software subscriptions, identity and security services, and business-oriented Windows products.\n\n In the full December quarter, revenue from Azure and other cloud services rose 42% in constant currency.",
             "source_name": "CNBC",
-            "url": "https://www.cnbc.com/2023/01/24/microsoft-forecast-suggests-gloomy-tech-environment-will-continue.html"
+            "url": "https://www.cnbc.com/2023/01/24/microsoft-forecast-suggests-gloomy-tech-environment-will-continue.html",
+            "date": "2023-01-25 01:15:42+00:00"
         },
         {
             "title": "Carbon Direct and Microsoft Release the 2023 Criteria for High-Quality Carbon Dioxide Removal",
             "summary": "The 2023 edition advances the work done by Carbon Direct and Microsoft since the inaugural Criteria were introduced in 2021 to address the quality challenges in the voluntary carbon market through the development of rigorous, science-based standards for carbon dioxide removal projects. The global community increasingly acknowledges the urgent need to scale carbon dioxide removal alongside reductions in order to meet climate mitigation targets. These and other developments underscore the urgency for scientifically-grounded carbon dioxide removal criteria to ensure effective climate action across sectors and borders. The Criteria are designed to provide carbon removal project developers with regularly updated guidance to ensure project quality, and to offer buyers of carbon removal credits a starting point for evaluating the quality of their carbon credits portfolios.",
             "source_name": "Yahoo! Finance News",
-            "url": "https://finance.yahoo.com/news/carbon-direct-microsoft-release-2023-120100849.html"
+            "url": "https://finance.yahoo.com/news/carbon-direct-microsoft-release-2023-120100849.html",
+            "date": "2023-07-12 12:34:44+00:00"
         },
         {
             "title": "Microsoft buys into yet more carbon capture tech",
             "summary": "In an effort to further reduce its environmental impact, Microsoft has signed a contract with the aptly named CarbonCapture to bury its CO2 emissions below ground.\n\n \n\nAlthough Microsoft has been aiming to prevent the amount of CO2 it releases (opens in new tab) in the first place, its emissions started to rise in 2021 (opens in new tab) for the first time in years, producing 14 million metric tons that year, which is more than that produced by 2.7 million households a year in their electricity use.\n\n \"\n\nDetails are scarce regarding how just much of Microsoft's CO2 emissions will actually be captured by CarbonCapture, and how much the deal is worth. CarbonCapture, for its part, will only be able to capture 10,000 metric tons of CO2 a year according to its projections for Project Bison. Currently, the technologies to capture this amount of carbon do not exist, but Microsoft seems confident that eventually they will, and that this new deal with CarbonCapture is setting them up on the right path.",
             "source_name": "TechRadar",
-            "url": "https://www.techradar.com/news/microsoft-buys-into-yet-more-carbon-capture-tech"
+            "url": "https://www.techradar.com/news/microsoft-buys-into-yet-more-carbon-capture-tech",
+            "date": "2023-03-23 18:40:08+00:00"
         },
         {
             "title": "CoreView Helps IT Teams Straddle Hybrid Microsoft 365 Environments \u200bby Streamlining Administration and Governance",
             "summary": "\"First, native Active Directory capabilities don't offer sufficient delegation capabilities, so multiple admins are required for any task in a hybrid environment. Another reason is that admins recognize Entra ID is not at parity with Active Directory, impacting how they do account authentication and policy implementation to satisfy security requirements. \"There are three reasons why Microsoft customers are maintaining hybrid environments,\" said Dan Flanigan, Vice President of Product at CoreView. The CoreSuite Hybrid Connector enables a simplified and secure layer for all objects (e.g., accounts, permissions, groups, and memberships), streamlining administrative tasks and reducing the likelihood of misconfigurations and inconsistencies that can lead to failures, breaches and compliance issues.",
             "source_name": "Yahoo! Finance News",
-            "url": "https://finance.yahoo.com/news/coreview-helps-teams-straddle-hybrid-120000403.html"
+            "url": "https://finance.yahoo.com/news/coreview-helps-teams-straddle-hybrid-120000403.html",
+            "date": "2023-09-14 13:11:09+00:00"
         },
         {
             "title": "Microsoft is the first customer for the Biden administration's carbon removal hubs",
             "summary": "Microsoft is helping to fund one of the US's first hubs for pulling planet-heating carbon dioxide out of the air.\n This is the first deal to purchase carbon removal credits from one of the government-funded hubs, WSJ reports\n  Microsoft's buy-in is a big vote of confidence for an industry that doesn't yet exist at scale to meaningfully tackle climate change\n  Heirloom says it's one of the biggest carbon removal deals yet and will help the company raise more money to build its DAC plants. The partnership fits into Microsoft's climate goal of becoming carbon negative by 2030\n  Heirloom says it will capture CO2 for Microsoft at two new commercial facilities in the US, including one it plans to build in Louisiana after being selected for up to $600 million in funding from the Department of Energy (DOE). In Louisiana, Heirloom is partnering with another DAC company called Climeworks, which has already captured CO2 for Microsoft at its facility in Iceland . It struck a deal with California-based startup Heirloom , which says it will capture up to 315,000 metric tons of CO2 for Microsoft over the next decade or so.",
             "source_name": "The Verge",
-            "url": "https://www.theverge.com/2023/9/7/23863386/microsoft-heirloom-biden-administrations-carbon-removal-hub?showComments=1"
+            "url": "https://www.theverge.com/2023/9/7/23863386/microsoft-heirloom-biden-administrations-carbon-removal-hub?showComments=1",
+            "date": "2023-09-07 22:57:51+00:00"
         },
         {
             "title": "Microsoft is the first customer for the Biden administration\u2019s carbon removal hubs",
             "summary": "Microsoft is helping to fund one of the US\u2019s first hubs for pulling planet-heating carbon dioxide out of the air. Microsoft\u2019s buy-in is a big vote of confidence for an industry that doesn\u2019t yet exist at scale to meaningfully tackle climate change\n\nHeirloom says it\u2019s one of the biggest carbon removal deals yet and will help the company raise more money to build its DAC plants. The partnership fits into Microsoft\u2019s climate goal of becoming carbon negative by 2030\n\nHeirloom says it will capture CO2 for Microsoft at two new commercial facilities in the US, including one it plans to build in Louisiana after being selected for up to $600 million in funding from the Department of Energy (DOE). The company has made other deals with startups breaking ground on new industrial facilities that filter CO2 out of the air, called direct air capture (DAC) plants. The partnership fits into Microsoft\u2019s climate goal of becoming carbon negative by 2030, meaning it plans to remove more carbon dioxide from the atmosphere than it emits as pollution.",
             "source_name": "The Verge",
-            "url": "https://www.theverge.com/2023/9/7/23863386/microsoft-heirloom-biden-administrations-carbon-removal-hub"
+            "url": "https://www.theverge.com/2023/9/7/23863386/microsoft-heirloom-biden-administrations-carbon-removal-hub",
+            "date": "2023-09-07 21:08:14+00:00"
         },
         {
             "title": "ReNew Power, Microsoft sign 150-MW renewable energy agreement",
             "summary": "Under this agreement, ReNew Power will produce power from a recently-commissioned solar site near Bikaner, Rajasthan\nNew Delhi: ReNew Power on Friday said it has signed a renewable energy agreement of 150 megawatt (MW) with\n  Microsoft India, under which it will produce power from a recently-commissioned solar site near Bikaner, Rajasthan.\n   According to Rohini Srivathsa, national technology officer, Microsoft India, Microsoft is striving to run 100 per cent on renewable energy by 2025 and turn carbon negative by 2030. \u201cThis venture will help contribute towards Microsoft \u2019s ambition of shifting to 100 per cent supply of renewable energy by 2025. We are committed to be a catalyst for global energy transition and will continue to offer innovative solutions to companies to support their climate goals,\u201d said Sumant Sinha, chairman and CEO, ReNew Power, in the official press release.",
             "source_name": "Energy Economictimes",
-            "url": "https://energy.economictimes.indiatimes.com/news/renewable/renew-power-microsoft-sign-150-mw-renewable-energy-agreement/96283559"
+            "url": "https://energy.economictimes.indiatimes.com/news/renewable/renew-power-microsoft-sign-150-mw-renewable-energy-agreement/96283559",
+            "date": "2022-12-16 15:54:21+00:00"
         },
         {
             "title": "Microsoft President Smith on Climate Change, Recession",
             "summary": "Microsoft President Brad Smith says the global economy is on the cusp of a new transition. Speaking with Emily Chang and Guy Johnson from the COP27 UN Climate Change Conference in Sharm el-Sheikh, Egypt, Smith also discusses the efforts to battle climate change and how Microsoft will manage a potential recession.",
             "source_name": "MSN UK",
-            "url": "https://www.msn.com/en-gb/money/video/microsoft-president-smith-on-climate-change-recession/vi-AA13Qewc"
+            "url": "https://www.msn.com/en-gb/money/video/microsoft-president-smith-on-climate-change-recession/vi-AA13Qewc",
+            "date": "2022-11-07 18:56:46+00:00"
         },
         {
             "title": "Lighthouse Recognized as a Microsoft Security Excellence Awards Winner for Diversity in Security",
             "summary": "SEATTLE, April 27, 2023 BUSINESS WIRE )--Lighthouse today announced it won the Diversity in Security award in the Microsoft Security Excellence Awards 2023. At Lighthouse, we push ourselves on a day-to-day basis to be beyond a statistic and create lasting change not only for our company, but for the industry.\"\n  \"After two previous MISA awards for our innovative contributions to the Microsoft 365 security and compliance space, we couldn't be prouder to receive this third recognition that our spirit of innovation extends through everything we do at Lighthouse\u2014including our approach to diversity,\" said Jamie Brown, VP Global Advisory Services at Lighthouse. The company's achievements have helped it rise to the top of the Microsoft Intelligent Security Association (MISA), an ecosystem of independent software vendors (ISVs) and managed security service providers (MSSPs) that have integrated their security products and services with Microsoft's security technology. \"Our Microsoft 365 practice is a critical part of fulfilling our mission to provide leading solutions for legal and compliance teams. \"With nearly 40-percent of the company's U.S. employees being ethnically diverse, nearly 40-percent globally being women, and nearly a quarter of the executive team being women and ethnically diverse, Lighthouse's commitment to DE&I shines through in every facet of the company.",
             "source_name": "Yahoo! Finance News",
-            "url": "https://finance.yahoo.com/news/lighthouse-recognized-microsoft-security-excellence-162900206.html"
+            "url": "https://finance.yahoo.com/news/lighthouse-recognized-microsoft-security-excellence-162900206.html",
+            "date": "2023-04-27 18:40:08+00:00"
         },
         {
             "title": "Fujitsu and Microsoft announce global partnership to enable \"sustainability transformation\"",
             "summary": "The agreement, which will involve investment by both companies to drive the expansion of Fujitsu's multibillion dollar business, leverages the Microsoft Cloud and industry-leading technologies to digitally transform how organizations around the world develop more sustainable practices and solutions that address societal needs, and unlock new streams of business growth. The two companies will jointly develop and bring to market innovative solutions that bring together Fujitsu's industry expertise in manufacturing, retail, healthcare, and its advanced computing and network capabilities with Microsoft's innovative cloud platforms including Microsoft Azure, Microsoft 365, Microsoft Dynamics 365, Microsoft Power Platform and Viva. The companies will drive joint go-to-market activities and deliver innovative solutions that respond to our customers' needs and accelerate business growth. As part of this partnership, details of which were revealed today in a Fujitsu briefing to investors, Fujitsu named Microsoft as a premier Cloud Partner.",
             "source_name": "Yahoo! Finance News",
-            "url": "https://finance.yahoo.com/news/fujitsu-microsoft-announce-global-partnership-051000157.html"
+            "url": "https://finance.yahoo.com/news/fujitsu-microsoft-announce-global-partnership-051000157.html",
+            "date": "2023-05-30 05:13:17+00:00"
         },
         {
             "title": "Seeq Announces the Seeq Solution for Microsoft Sustainability ... - PR Newswire",
             "summary": "Seeq Announces the Seeq Solution for Microsoft Sustainability...",
             "source_name": "Google News Canada",
-            "url": "https://news.google.com/rss/articles/CBMifWh0dHBzOi8vd3d3LnBybmV3c3dpcmUuY29tL25ld3MtcmVsZWFzZXMvc2VlcS1hbm5vdW5jZXMtdGhlLXNlZXEtc29sdXRpb24tZm9yLW1pY3Jvc29mdC1zdXN0YWluYWJpbGl0eS1tYW5hZ2VyLTMwMTc5NDM4NC5odG1s0gEA?oc=5"
+            "url": "https://news.google.com/rss/articles/CBMifWh0dHBzOi8vd3d3LnBybmV3c3dpcmUuY29tL25ld3MtcmVsZWFzZXMvc2VlcS1hbm5vdW5jZXMtdGhlLXNlZXEtc29sdXRpb24tZm9yLW1pY3Jvc29mdC1zdXN0YWluYWJpbGl0eS1tYW5hZ2VyLTMwMTc5NDM4NC5odG1s0gEA?oc=5",
+            "date": "2023-04-11 14:40:43+00:00"
         }
     ]
 }

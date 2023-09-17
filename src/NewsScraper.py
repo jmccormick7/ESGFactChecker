@@ -52,13 +52,14 @@ def get_headlines(company_name):
 
             source_name = "{}".format(story.source.name)
             source_link = "{}".format(story.links.permalink)
+            source_date = "{}".format(story.published_at)
 
             story = ast.literal_eval("{}".format(story.summary.sentences))
             story = clean_story(story)
             story = " ".join(story).strip() # separate sentences with space, remove author line
         
 
-            articles.append({"title": title, "summary": story, "source_name": source_name, "url": source_link})
+            articles.append({"title": title, "summary": story, "source_name": source_name, "url": source_link, "date": source_date})
     except ApiException as e:
         print('Exception when calling DefaultApi->list_stories: %s\n' % e)
     
@@ -86,13 +87,13 @@ def format_headlines(article_json, output_name):
 def get_news(company_name):
     directory_path = "./src/news_outputs"
 
-    for filename in os.listdir(directory_path):
-        if os.path.isfile(os.path.join(directory_path, filename)):
-            if company_name.lower() in filename:
-                print("cached")
-                with open(os.path.join(directory_path, filename), "r") as file:
-                    jsonData = json.load(file)
-                    return jsonData
+    # for filename in os.listdir(directory_path):
+    #     if os.path.isfile(os.path.join(directory_path, filename)):
+    #         if company_name.lower() in filename:
+    #             print("cached")
+    #             with open(os.path.join(directory_path, filename), "r") as file:
+    #                 jsonData = json.load(file)
+    #                 return jsonData
 
     print("fetched")       
     return json.loads(format_headlines(get_headlines(company_name), company_name))
