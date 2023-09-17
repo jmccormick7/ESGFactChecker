@@ -2,7 +2,7 @@ import os
 import openai
 from NewsScraper import *
 
-openai.api_key = "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" #ENTER KEY HERE (pull from local env variable)
+openai.api_key = "" #ENTER KEY HERE (pull from local env variable)
 
 #from a json representation of news articles, generate a string gpt input asking for a summary
 def generate_gpt_input(article_json):
@@ -64,5 +64,5 @@ def get_gpt(company_name):
     print("fetched")       
     return generate_gpt_output(generate_gpt_input(get_news(company_name)), company_name)
 
-firm_name = "Tesla"
+firm_name = "Patagonia"
 get_gpt(firm_name)

@@ -98,4 +98,4 @@ def get_news(company_name):
     return json.loads(format_headlines(get_headlines(company_name), company_name))
 
 
-get_news("Microsoft")
+get_news("Tesla")

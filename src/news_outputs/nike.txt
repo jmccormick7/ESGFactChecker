@@ -1,0 +1,154 @@
+{
+    "articles": [
+        {
+            "title": "Nike lawsuit records allege culture of sexism, bullying and fear of retaliation",
+            "summary": "A long-running sexual harassment and gender discrimination lawsuit against Nike has produced more than 5,000 pages of records, including surveys of female employees that allege sexist attitudes and behavior at the sportwear giant alongside corporate bullying and fears of retaliation.\n\n In the surveys, one female employee described Nike as \u201ca giant men\u2019s sports team, where favoritism prevails and females couldn\u2019t possibly play in the sandbox\u201d.\n\n The documents, which date back to 2018, detail how female employees at the company were concerned that Nike\u2019s management were unlikely to address their concerns.\n\n After the surveys were delivered to Nike, Parker announced a management re-shuffle and responded to employees with an apology: \u201cOver the past few weeks, we\u2019ve become aware of reports occurring within our organization that do not reflect our core values of inclusivity, respect and empowerment.\u201d The so-called Starfish surveys were delivered to chief executive Mark Parker \u2013 who has since become Nike\u2019s executive chairperson \u2013 in March 2018, prompting news reports and company efforts to reform Nike\u2019s alleged \u201cboys\u2019 club\u201d culture.",
+            "source_name": "The Guardian",
+            "url": "https://www.theguardian.com/business/2022/dec/20/nike-lawsuit-records-sexual-abuse-toxic-workplace-claim"
+        },
+        {
+            "title": "Alibaba: Nike Recycles Shoes Into Sports Fields via Alipay",
+            "summary": "NORTHAMPTON, MA / ACCESSWIRE / October 28, 2022 / Alibaba Group\nAlibaba Group, Friday, October 28, 2022, Press release picture\nSports apparel company Nike is helping Chinese consumers up their recycling game with its \"Recycle-A-Shoe\" mini-program unveiled last week on Ant Group's mobile payment platform Alipay.\n Over 650 million shoppers are part of the program, and more than 400 million trees have been planted as of August 2022, saving roughly 26 million tons of carbon emissions in the process, according to Ant Group estimates.\n \"The private sector needs to encourage more environmental-friendly actions among consumers while committing themselves to reduce carbon emission in their business operations,\" Cheng Jiang, General Manager of the Social Good Department at Ant Group, said in a statement last week.\n Shoppers can return their old Nike sneakers in person at the brand's flagship store in Shanghai or arrange an at-home pick-up with Alibaba Group's logistics service Cainiao Network.\n Nike's shoe recycling program will help cut emissions even further.",
+            "source_name": "Yahoo",
+            "url": "https://finance.yahoo.com/news/alibaba-nike-recycles-shoes-sports-125500813.html"
+        },
+        {
+            "title": "Nike scores critical win in sweeping gender discrimination lawsuit",
+            "summary": "Nike has scored a major victory in an ongoing lawsuit that alleges widespread gender discrimination and sexual harassment at the sportswear company. Documents unsealed last week, after a legal challenge by Insider, the Oregonian, and the Portland Business Journal, show plaintiffs allege Nike underpaid female workers $11,000 on average between 2015 and 2019.In its motion against class certification earlier this year, Nike disputed the $11,000 alleged pay gap and argued \"no glue\" binds the \"thousands of individualized claims\" made by plaintiffs. \"The evidence shows that Nike is self-reflective, constantly strives to improve its culture, and takes seriously the experience of its employees, including women and other protected groups,\" Nike's lawyers argued in the company's motion against class certification.\u00a0 In its motion against class certification, Nike's attorneys said they would move for summary judgment after the judge ruled on the motion for class certification, essentially meaning they'd ask a judge to decide the case.\u00a0 An attorney for the company declined comment.\"We respectfully disagree with the denial of class certification and will appeal the ruling,\" said Laura Salerno Owens, Markowitz Herbold president and lead attorney for the plaintiffs, in a statement to Insider.",
+            "source_name": "Business Insider",
+            "url": "https://www.businessinsider.com/nike-scores-critical-win-in-sweeping-gender-discrimination-lawsuit-2022-11"
+        },
+        {
+            "title": "Inside Nike: Sources share claims of sexism, cheating, abuse at the world's wokest brand",
+            "summary": "Nike has long positioned itself as a \"woke\" apparel company, a champion of progressive values that backed social-justice heroes like Colin Kaepernick. In December 2012, not long after Cain had committed to training under Salazar, Steve Magness sent an email to a USADA tip account: \"Look into the Nike Oregon Project athletes. Knight and Clarke, both former distance runners, believed Salazar, who had coached Nike athletes and worked as a sports-marketing consultant for the company, could restore glory to American running. The family, Cain's father said, was desperate for \"divine intervention.\"\n\nWhen it arrived that October, it came in the form of an offer from legendary running coach Alberto Salazar, who managed an elite program called the Nike Oregon Project. In Rupp, Salazar saw his chance to correct earlier mistakes: Rather than rushing him into the program, he allowed him first to develop in high school and college before turning professional with the Nike Oregon Project in 2009.",
+            "source_name": "Business Insider",
+            "url": "https://www.businessinsider.com/nike-oregon-project-mary-cain-alberto-salazar-olympics-marathon-running-sports-uyghur-china-labor"
+        },
+        {
+            "title": "2 Green Flags for Nike Stock in 2023",
+            "summary": "Investors haven't been thrilled with Nike (NKE -0.60%) stock so far this year. You could see evidence of this challenge showing up in gross profit margin, which was down 1 percentage point in the past quarter, to 44% of sales, and declined 2.5 percentage points for the full fiscal 2023 year.\n\n Nike's e-commerce sales, which reflect direct connections with consumers, plus higher margins, are booming. This strategy has pressured profit margins through promotions and higher sales at its factory outlet locations even as prices rose for some popular footwear products like the Jordan and Air Max lines. You can buy Nike for 3.3 times sales, down from recent highs above 4.",
+            "source_name": "The Motley Fool",
+            "url": "https://www.fool.com/investing/2023/08/11/2-green-flags-for-nike-stock-in-2023/?source=iedfolrf0000001"
+        },
+        {
+            "title": "Nike impacted by declining Foot Locker sales, retail environment",
+            "summary": "Yahoo Finance markets reporter Josh Schafer breaks down the impact of Foot Locker sales on Nike, retail inventory, and how the resale market is impacting the company.\n\n But where that relates to Nike is Nike represents about 70% of Foot Locker's overall sales. And when you talk about a broader promotional environment, something that an analyst pointed out today with Nike-- other websites, like a StockX that sells Nike shoes on a secondary level, are now selling them cheaper than Nike sells them.\n\n So I think the environment is actually maybe over promotional in some ways, and then you become competitive against yourself if you're Nike when your shoes are out there on the secondary market for cheaper than you're trying to sell them on your website, it's hard to offload that.\n\n Some of those now, you go on Nike's websites, there's a lot of shoes for under $100.",
+            "source_name": "Yahoo! Finance News",
+            "url": "https://finance.yahoo.com/video/nike-impacted-declining-foot-locker-200131078.html"
+        },
+        {
+            "title": "Nike on green track for digitalization, more consumers",
+            "summary": "Global sportswear player Nike is bullish about the strong growth of China's sportswear market, with a focus on Generation Z and female consumers, digitalization and sports performance to engage with local sports lovers, said Angela Dong, vice-president of Nike Inc and general manager of Nike Greater China.\n  With the acceleration of \"zero carbon\" efforts and the digital transformation, Nike will serve consumers better and faster and achieve long-term business growth in the market, Dong said.\n   Nike's observations in emerging sports such as skateboarding and street dancing have also given the company inspiration to develop products to better engage with local consumers. \"We are confident in the future development of the Chinese market, with green development and digitalization as important strategic directions for Nike in China,\" Dong said.\n   In Shenzhen, Guangdong province, the Nike Digital Technology innovation center has focused on building new technological capabilities, to accelerate Nike's digital-led approach to better serve the unique and ever-evolving \"digital-first \"demands of Chinese consumers.",
+            "source_name": "China Daily",
+            "url": "http://www.chinadaily.com.cn/a/202303/22/WS641a5473a31057c47ebb5ced.html"
+        },
+        {
+            "title": "Nike taps Twitter's former head of diversity as next chief DEI officer",
+            "summary": "Loduca succeeds Jarvis Sam, who left the company in November.   Nike on Tuesday announced James Loduca as the company's next chief diversity, equity, and inclusion officer. Loduca succeeds Jarvis Sam, who departed Nike in November\n  \"Diversity, equity and inclusion (DEI) continue to be top priorities for Nike, Inc.,\" said Chief Human Resources Officer Monique Matheson, in an email to employees announcing Loduca's hiring. In an email sent to employees and viewed by Insider, Nike credited Loduca with designing and scaling Twitter's diversity efforts and transforming it into a recognized leader. On his LinkedIn bio, Loduca identifies as \"one of the few openly LGBTQ+ Latinx executives in the field.\"\n  \"For more than 25 years, James has dedicated his career to addressing systemic inequality, uplifting underrepresented people and communities, and accelerating change,\" Matheson wrote in the email to Nike employees.",
+            "source_name": "Msn India",
+            "url": "https://www.msn.com/en-in/money/news/nike-taps-twitters-former-head-of-diversity-as-next-chief-dei-officer/ar-AA18kVL3"
+        },
+        {
+            "title": "Nike taps Twitter's former head of diversity as next chief DEI officer",
+            "summary": "Loduca succeeds Jarvis Sam, who left the company in November.\n\n download the app Email address By clicking \u2018Sign up\u2019, you agree to receive marketing emails from Insider as well as other partner offers and accept our Terms of Service and Privacy Policy\n\nNike on Tuesday announced James Loduca as the company's next chief diversity, equity, and inclusion officer. \"Diversity, equity and inclusion (DEI) continue to be top priorities for Nike, Inc.,\" said Chief Human Resources Officer Monique Matheson, in an email to employees announcing Loduca's hiring. In an email sent to employees and viewed by Insider, Nike credited Loduca with designing and scaling Twitter's diversity efforts and transforming it into a recognized leader. On his LinkedIn bio, Loduca identifies as \"one of the few openly LGBTQ+ Latinx executives in the field.\"\n\n\"For more than 25 years, James has dedicated his career to addressing systemic inequality, uplifting underrepresented people and communities, and accelerating change,\" Matheson wrote in the email to Nike employees.",
+            "source_name": "Business Insider",
+            "url": "https://www.businessinsider.com/nike-twitter-head-diversity-james-loduca-next-chief-dei-officer-2023-3"
+        },
+        {
+            "title": "Unveiling Nike Inc's Dividend Performance: A Deep Dive into its Growth, Yield, and Sustainability",
+            "summary": "Nike Inc( NYSE:NKE ) recently announced a dividend of $0.34 per share, payable on 2023-10-02, with the ex-dividend date set for 2023-09-01. Over the past three years, Nike Inc's annual dividend growth rate was 11.50%. And over the past decade, Nike Inc's annual dividends per share growth rate stands at an impressive 12.40%. Breaking Down Nike Inc's Dividend Yield and Growth\n  As of today, Nike Inc currently has a 12-month trailing dividend yield of 1.29% and a 12-month forward dividend yield of 1.33%. A Glimpse at Nike Inc's Dividend History\n  Nike Inc has maintained a consistent dividend payment record since 1986.",
+            "source_name": "Yahoo! Finance News",
+            "url": "https://finance.yahoo.com/news/unveiling-nike-incs-dividend-performance-231708814.html"
+        },
+        {
+            "title": "Nike Air Max Penny 1 \u201cStadium Green\u201d Drops Holiday 2023",
+            "summary": "The spotlight falls on the beloved Nike Air Max Penny 1, soon set to grace the market in an all-new \u201cStadium Green\u201d colorway. Nike Air Max Penny 1 \u201cStadium Green\u201d Color: Stadium Green/Metallic Gold-White-Mystic Green-Blue Lightning\n Style Code: FQ8827-324\n Release Date: Holiday 2023 The \u201cStadium Green\u201d variant brings classic features like the wavy midsole and the pinstriped detailing on the pull tab.\n  Its unique composition, combining lush green suede with a shimmering metallic green finish, is a testament to Nike\u2019s dedication to innovation and aesthetics.",
+            "source_name": "JustFreshKicks",
+            "url": "https://justfreshkicks.com/nike-air-max-penny-1-stadium-green-fq8827-324/"
+        },
+        {
+            "title": "Big changes at the top of Nike as the company shakes up its technology, diversity, Asia, and women's departments",
+            "summary": "Nike last week announced leaders of several critical business departments.\n\n Ryan Fusselman\n\nNew job responsibilities: Interim co-head for global technology, alongside Deepak Arora, leading the company's ongoing \"digital transformation\"\n\nCurrent job: Chief information security officer\n\nFusselman, a 10-year Nike veteran, joins Arora as an interim co-head for global technology, according to an internal email announcing his appointment viewed by Insider. Nike believes that if you have a body, you are an athlete\u2013 and I'm thrilled to be joining the team and help lead efforts to create a level playing field where everyone can win.\"\n\nDeepak Arora\n\nNew job responsibilities: Interim co-head for global technology, alongside Ryan Fusselman, leading the company's ongoing \"digital transformation\"\n\nCurrent job: VP of commerce engineering\n\nIn an internal email sent earlier this month, Nike announced that Arora, a nearly five-year company veteran, would serve as one of two co-heads of global technology. Amy Montagne\n\nNew job: Vice president and general manager of Nike's women's business\n\nOld job: Vice president and general manager of Asia and Latin America\n\nMontagne is an 18-year Nike veteran who previously worked for nine years for the Gap. Old job: Vice president and general manager of Nike's women's business (Montagne's new job)",
+            "source_name": "Business Insider",
+            "url": "https://www.businessinsider.com/nike-organization-changes-in-technology-diversity-asia-and-womens-2023-3"
+        },
+        {
+            "title": "Save big with the 80 best Presidents Day sales at Amazon, Green Chef, iRobot and Nike",
+            "summary": "Shop amazing discounts on appliances, tech and clothes at these Presidents Day sales.\n\n\u2014 Recommendations are independently chosen by Reviewed\u2019s editors. Level Sleep: Get everything you need for a good night's sleep by shopping the Level Sleep Presidents Day Preview sale with $200 off the brand's flagship mattress, plus you can also get sleep accessories valued at up to $399 totally free with your mattress purchase.\n\n The popular sleep retailer is offering 30% off mattresses and bedding during its Presidents Day sale with the promo code PRESDAY30. Avocado: Shop the Presidents Day sale and save up to $880 on mattresses with coupon code SAVE10, plus get 10% off select sheets, loungewear and more.\n\n Casper: Get a new mattress without breaking the bank by shopping Casper's Presidents Day sale with 20% off mattresses and 10% off other bedding essentials.",
+            "source_name": "Yahoo",
+            "url": "https://news.yahoo.com/save-big-80-best-presidents-220019156.html"
+        },
+        {
+            "title": "Sneaker spotlight: Why the Jordan 4 x Nike SB Pine Green deserves the hype",
+            "summary": "Jordan Brand has teamed up with Nike SB to release the Jordan 4 x Nike SB Pine Green, and it has driven skateboarders, basketball players, and plain sneakerheads into a kicks-grabbing frenzy.\n  Which raises the question: Does the Jordan 4 x Nike SB Pine Green deserve the hype? Jordan Brand has previously teamed up with Nike SB to release popular Jordan silhouettes tweaked especially for skateboarding. Rating: A-\n  Wearability\n  It's a clean shoe, but the green may be off putting for some. So when it was announced that Jordan would release a collab with Nike's skateboarding arm for a J4 silhouette, it left legions eagerly anticipating the drop.",
+            "source_name": "ABS-CBN News",
+            "url": "https://news.abs-cbn.com/ancx/style/necessary-style/03/30/23/why-the-jordan-4-x-nike-sb-pine-green-deserves-the-hype"
+        },
+        {
+            "title": "Inside Nike's high-profile gender discrimination lawsuit, where plaintiffs claim unequal pay and more thanks to a 'boys' club' culture",
+            "summary": "Former female Nike employees sued the company over alleged gender discrimination in 2018.\n\n Nike files motion to keep sensitive records in sweeping gender discrimination lawsuit sealed\n\nIn mid-March 2022, Nike said in a legal filing it was willing to make the \"overwhelming majority\" of the lawsuit public, but it wanted several records to remain sealed, including a plaintiffs' analysis of aggregate pay shortfalls and documents about three former employees who were the subject of complaints.\n\n Nike ordered to release additional information about pay practices in sweeping gender-discrimination lawsuit after Insider and other publications' challenge of court seal\n\nIn September 2022, a federal judge ruled in favor of Insider, the Oregonian, and the Portland Business Journal. Insider among publications working to unseal records in Nike's gender discrimination lawsuit\n\nIn early April 2022, Insider, the Oregonian, and the Portland Business Journal intervened in the lawsuit in an effort to get more of the case unsealed. Nike pay and HR practices coming to light as part of lawsuit alleging gender discrimination\n\nIn late-March 2022, Nike unsealed more than 700 pages of records that showed the company would likely argue in court that individual hiring managers make decisions about pay, therefore any disparities were isolated, not systemic.",
+            "source_name": "Business Insider",
+            "url": "https://www.businessinsider.com/inside-nike-gender-discrimination-lawsuit-citing-unequal-pay-2022-5"
+        },
+        {
+            "title": "Nike flogging luxury pair of trainers covered in green grass-like fur for an eye-watering  \u00a31,400",
+            "summary": "NIKE is selling a pair of trainers covered in green grass-like fur for \u00a31,400.\n\n 2 Nike is selling the Forest Green sneakers for ten times more than a pair of Air Max shoes at \u00a31,400\n\n2 The Forest Green sneakers are ten times more expensive than a standard pair of Nike Air Max shoes.\n\n The shoes are part of a collaboration with quirky clothing brand The Cactus Plant Flea Market.\n\n The sneakers are part of a collaboration with The Cactus Plant Flea Market\n\nThe product listing says it has a \u201cfaux fur construction inspired by an overgrown plant\u201d.",
+            "source_name": "The Sun - UK",
+            "url": "https://www.thesun.co.uk/news/22332747/nike-expensive-luxury-trainers-covered-green-grass-like-fur/"
+        },
+        {
+            "title": "Nike Air Max Penny 1 \u201cStadium Green\u201d Officially Revealed",
+            "summary": "A new Air Max Penny is here soon.   \"Stadium Green\" Nike Air Max Penny 1\n  The sneakers feature a white and green rubber sole, with a midsole that contains an air bubble below the heel. Whether for performance or style, the Nike Air Max Penny 1 continues to be a revered classic in sneaker culture.\n   The Nike Air Max Penny 1 is an iconic basketball sneaker that holds a special place in the hearts of sneaker enthusiasts and basketball fans alike.\n More Photos\n  Sneaker Bar Detroit reports that the Nike Air Max Penny 1 \"Stadium Green\" will be released during the holiday of 2023.",
+            "source_name": "Hot New Hip Hop",
+            "url": "https://www.hotnewhiphop.com/714045-nike-air-max-penny-1-stadium-green-officially-revealed"
+        },
+        {
+            "title": "Nia Sharma's Neon Green Cutout Nike Swimsuit With Denim Shorts Screams Summer Beach Style",
+            "summary": "Come summer and all one wants to do is escape to a vacation-worthy location. ADVERTISEMENT\n\nAlso Read: Nia Sharma's Recipe For A Stylish Summer In Miami Needs Just A Snazzy White Cutout Swimsuit\n\nNia Sharma's vacation style is a mix of everything but majorly chic silhouettes that make a statement have been always on the top of her style list. Nia Sharma's version of a delectable summer in Miami is truly stylish. The latest in line is actress Nia Sharma who is, once again, adding to the temperature in her own statement-making way. (Also Read: All Days Are Beach Days When Nia Sharma's Cutout Black Swimsuit Comes To Play)",
+            "source_name": "NDTV",
+            "url": "https://swirlster.ndtv.com/style/nia-sharmas-neon-green-cutout-nike-swimsuit-with-denim-shorts-screams-summer-beach-style-4155774"
+        },
+        {
+            "title": "Justin Suh gaining over 7 strokes on greens with Nike putter he's had since eighth grade",
+            "summary": "Rex Hoggard  DUBLIN, Ohio \u2013 Justin Suh leads the Memorial by a stroke and it doesn't take a deep dive to figure out why.\n  The challenge for Suh has been keeping a regular supply of the Nike model and he told Golf Channel following his round Friday that he's purchased five similar Method putters off eBay. Suh uses the same model of putter \u2013 a Nike Method Core Mod-4w, which he purchased off a rack for $50 before a junior tournament \u2013 as he did when he was in eighth grade. \u201cI don't think anyone is expecting to gain seven strokes off two days,\u201d Suh laughed following his second-round 66.\n   Actually, Suh has picked up 7.33 shots this week in strokes gained: putting and leads the field in that category.",
+            "source_name": "Yahoo! Sports",
+            "url": "https://sports.yahoo.com/justin-suh-gaining-over-7-192213054.html"
+        },
+        {
+            "title": "Nike ordered to release additional information about pay practices in sweeping gender-discrimination lawsuit after Insider and other publications' challenge of court seal",
+            "summary": "A judge on Friday granted a victory to a group of news outlets seeking to unseal additional records in a sweeping gender-discrimination lawsuit against Nike. Insider, The Oregonian, and the Portland Business Journal challenged the protective order in April, arguing that more information about Nike's pay practices is in the public interest. In a 15-page ruling, US Magistrate Judge Jolie A. Russo said Nike must release more information about its pay practices, including information about what the plaintiffs allege is a pay gap between male and female employees. Nike had tried to block the release of the information, arguing that attorneys for the plaintiffs derived the pay infomration from confidential employee compensation data and that the release would allow competitors insight into Nike's pay practices. \"Defendant's mere desire to keep this information confidential is inadequate in this context, nor does it outweigh the public's interest in disclosure, especially in light of [Nike's] initial and widely-disseminated statements concerning the study,\" she wrote.",
+            "source_name": "Business Insider",
+            "url": "https://www.businessinsider.com/nike-ordered-to-release-pay-info-in-gender-discrimination-lawsuit-2022-9"
+        },
+        {
+            "title": "Asia Pacific Emerges as Key Growth Region in Global Flip Flops Market, Companies like Nike and Adidas Drive Innovation and Sustainability",
+            "summary": "Increased income levels and high investments in summer footwear and clothing, particularly in developing countries such as China, India, and Brazil, are expected to foster the growth of the flip flops market globally.\n   Owing to rising per-capita income of citizens and changing lifestyles, there has been a shift from traditional flip-flops to trendy ones in the country's market. The flip-flops market in China has experienced an extreme transformation over the years. The flip-flop market is anticipated to witness an increase in the revenue.",
+            "source_name": "Yahoo! Finance News",
+            "url": "https://finance.yahoo.com/news/asia-pacific-emerges-key-growth-110800598.html"
+        },
+        {
+            "title": "Nike Air Max Penny Comes Doused In \u201cStadium Green\u201d",
+            "summary": "This post contains references to products from one or more of our advertisers. While his first signature silhouette has recently slowed its once-weekly release schedule, the Air Max Penny now returns in a striking set of \u201cStadium Green\u201d shades.\n\n The Nike Air Max Penny \u201cStadium Green\u201d is expected to join the Beaverton brand\u2019s recently previewed Holiday 2023 lineup for a retail price of $180. Nike Air Max Penny\n\nRelease Date: 2023\n\nColor: N/A\n\nMens: $180 Style Code: FQ8827-324 Taking a sharp diversion from the silhouette\u2019s past monochrome-based efforts, the upcoming Air Max Penny stretches vibrant green hues across a dominant majority of the upper real estate.",
+            "source_name": "Sneaker News",
+            "url": "https://sneakernews.com/2023/09/16/nike-air-max-penny-stadium-green-fq8827-324/"
+        },
+        {
+            "title": "Leaked audio: Nike tech team meets after top exec's sudden departure. VP stresses focus on digital transformation, notes 'challenging environment and economy.'",
+            "summary": "Ratnakar Lavu, Nike's top technology executive, has resigned, effective immediately.\n\n download the app Email address By clicking \u2018Sign up\u2019, you agree to receive marketing emails from Insider as well as other partner offers and accept our Terms of Service and Privacy Policy\n\nNike's No. 2 technology executive on Monday hosted an all-hands video call with the company's technology workforce shortly after the announcement of the sudden resignation of Ratnakar Lavu, the company's top technology executive.\n\n On the call, Eugene Cook, Nike's vice president of technology operations, encouraged the company's workforce to finish the fiscal year strong. When addressing Nike's technology workforce, which in recent months has voiced widespread dissatisfaction and concerns regarding talent attrition, Cook had a largely positive message that focused on the team's strengths.\n\n The company's No. 2 technology executive hosted a call after Nike announced Lavu's departure.",
+            "source_name": "Business Insider",
+            "url": "https://www.businessinsider.com/nike-meeting-leaked-audio-focus-on-digital-tough-economy-2023-2"
+        },
+        {
+            "title": "Leaked audio: Nike tech team meets after top exec's sudden departure. VP stresses focus on digital transformation, notes 'challenging environment and economy.'",
+            "summary": "There are some truly awesome movie musclemen in Hollywood. On the call, Eugene Cook, Nike's vice president of technology operations, encouraged the company's workforce to finish the fiscal year strong. Nike's No. 2 technology executive on Monday hosted an all-hands video call with the company's technology workforce shortly after the announcement of the sudden resignation of Ratnakar Lavu , the company's top technology executive.\n   When addressing Nike's technology workforce, which in recent months has voiced widespread dissatisfaction and concerns regarding talent attrition, Cook had a largely positive message that focused on the team's strengths.\n   The company's No. 2 technology executive hosted a call after Nike announced Lavu's departure.",
+            "source_name": "Msn India",
+            "url": "https://www.msn.com/en-in/money/news/leaked-audio-nike-tech-team-meets-after-top-exec-s-sudden-departure-vp-stresses-focus-on-digital-transformation-notes-challenging-environment-and-economy/ar-AA17JI76?ocid=finance-verthp-feeds"
+        },
+        {
+            "title": "Nike Air Max Penny 1 'Stadium Green' Set for Debut",
+            "summary": "New colorway added to the lineup for Holiday 2023.   While no specific release date has been announced, the \"Stadium Green\" Air Max Penny 1 is expected to be released as part of Nike's Holiday 2023 lineup. Nike Air Max Penny 1 \"Stadium Green\"\n  Release Date: Holiday 2023\n   Back on shelves for the past year, Penny Hardaway's Nike Air Max Penny 1 signature shoe is set to debut in another all-new colorway this holiday season. Color: Stadium Green/Metallic Gold-White-Mystic Green-Blue Lightning\n  Style #: FQ8827-324\n  Price:\n  The Nike 'Air' Movie, Do Sneakerheads Love It or Hate It?",
+            "source_name": "Complex",
+            "url": "https://www.complex.com/sneakers/a/brandon-richard/nike-air-max-penny-1-stadium-green-release-date-fq8827-324"
+        }
+    ]
+}
