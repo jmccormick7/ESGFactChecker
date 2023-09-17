@@ -1,14 +1,17 @@
-from sentimentCheck import SentimentAnalyzer
+#from sentimentCheck import SentimentAnalyzer
 import json
 #import summarize_pdf
 # from src/DocScraper.py
 from src import NewsScraper
 from src import NewsSummarizer
+from src import PDFSummarizer
 import statistics
 
+
 class ForetAPI():
-    def __init__(self, company_name):
+    def __init__(self, company_name, pdf_url):
         self.company_name = company_name
+        self.pdf_url = pdf_url
 
     def getNewsJSON(self):
         self.newsJSON =  NewsScraper.get_news(self.company_name)
@@ -16,11 +19,15 @@ class ForetAPI():
     def getNewsSummary(self):
         self.newsGPT = NewsSummarizer.get_gpt(self.company_name)
 
+    def getPDFSummary(self):
+        self.pdfSummary = PDFSummarizer.summarize(self.pdf_url)
+
     def getESG(self, JSONList:list): 
-        sentiment = SentimentAnalyzer(JSONList)
+        #sentiment = SentimentAnalyzer(JSONList)
         # jsonSentiment = SentimentAnalyzer.sentimentScoring(self.company_name)
         # return json_result
-        return sentiment.getESG()
+        #return sentiment.getESG()
+        return 0
     
     def parse_articles(self, json_data):
         return json_data.get("articles", [])

@@ -1,6 +1,6 @@
 import os
 import openai
-import NewsScraper
+from .NewsScraper import *
 
 openai.api_key = "" #ENTER KEY HERE (pull from local env variable)
 

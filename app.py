@@ -1,11 +1,13 @@
 import os
 from flask import Flask, jsonify, request
-from dotenv import load_dotenv
-from flask_sqlalchemy import SQLAlchemy
-from db import PostgreSQLDatabase
+#from dotenv import load_dotenv
+#from flask_sqlalchemy import SQLAlchemy
+#from db import PostgreSQLDatabase
+
+import ForetAPI
+
 
 app = Flask(__name__)
-load_dotenv() 
 
 # app.config["SQLALCHEMY_DATABASE_URI"] = os.environ["SQLALCHEMY_DATABASE_URI"]
 # db = SQLAlchemy(app)
@@ -26,12 +28,23 @@ load_dotenv()
 #         return {'id': self.id, 'author': self.author, 'tweet': self.tweet}
 
 
-db = PostgreSQLDatabase('Foret','user', 'pass' , 'localhost', '5432')
-connection = db.connect()
+#db = PostgreSQLDatabase('Foret','user', 'pass' , 'localhost', '5432')
+#connection = db.connect()
 
 @app.route('/')
 def hello():
     return 'hello world'
+
+@app.route('/esg/<company>')
+def esg(company):
+    pdf = request.args.get('pdf_url')
+    foret = ForetAPI(company, pdf)
+    pdf_summary = foret.getPDFSummary(pdf)
+    news_summary = foret.getNewsSummary(company)
+
+    return  f'Here is a summary of key ESG considerations from {company}\'s annual report: \\n{pdf_summary} \
+\\n Here is a summary of key ESG considerations from news about {company}: \\n{news_summary}'  
+
 
 @app.route('/fetch-data', methods=['GET'])
 def fetch_data():
