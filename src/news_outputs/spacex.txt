@@ -1,0 +1,179 @@
+{
+    "articles": [
+        {
+            "title": "SpaceX Discrimination Lawsuit",
+            "summary": "FILE The  SpaceX  headquarters  is  seen May in  Hawthorne Calif On  Thursday Aug the  U.S.\n Department\n  of\n  Justice\n  filed\n  suit\n  against\n  SpaceX the\n  rocket\n  company\n  founded\n  and\n  run\n  by\n  Elon\n  Musk for\n  alleged\n  hiring\n  discrimination\n  against\n  refugees\n  and\n  people\n  seeking\n  or\n  already\n  granted\n  asylum AP\n  Photo Jae\n  C Hong File FILE\n  PHOTO",
+            "source_name": "Naver",
+            "url": "https://n.news.naver.com/mnews/article/077/0006015131",
+            "date": "2023-08-24 23:03:39+00:00"
+        },
+        {
+            "title": "SpaceX Discrimination Lawsuit",
+            "summary": "FILE The  U.S.  Department  of  Justice  logo  is  seen  on a podium  following a news\n conference\n  in\n  the\n  office\n  of\n  the\n  U.S.\n  Attorney\n  for\n  the\n  District\n  of\n  Maryland\n  in\n  Baltimore March On\n  Thursday Aug the\n  U.S.\n  Department\n  of\n  Justice\n  filed\n  suit\n  against\n  SpaceX the\n  rocket\n  company\n  founded\n  and\n  run\n  by\n  Elon\n  Musk for\n  alleged\n  hiring\n  discrimination\n  against\n  refugees\n  and\n  people\n  seeking\n  or\n  already\n  granted\n  asylum AP\n  Photo Patrick\n  Semansky File FILE\n  PHOTO",
+            "source_name": "Naver",
+            "url": "https://n.news.naver.com/mnews/article/077/0006015132",
+            "date": "2023-08-24 23:03:25+00:00"
+        },
+        {
+            "title": "DOJ sues SpaceX for hiring discrimination",
+            "summary": "The US Department of Justice is suing Elon Musk\u2019s SpaceX over allegations that it discriminated against asylees and refugees in hiring. In a lawsuit filed on Wednesday, the DOJ claims from at least September 2018 to May 2022, SpaceX discouraged refugees and asylees from applying to the company \u201cby wrongly stating that SpaceX can only hire U.S. citizens and lawful permanent residents.\u201d\n\n In the meantime, the DOJ is encouraging asylees and refugees to contact its Civil Rights Division\u2019s Immigrant and Employee Rights Section (IER) if they applied to a job at SpaceX or were discouraged from applying to the company. \u201cOur investigation found that SpaceX failed to fairly consider or hire asylees and refugees because of their citizenship status and imposed what amounted to a ban on their hire regardless of their qualification, in violation of federal law,\u201d Kristen Clarke, the assistant attorney general of the DOJ\u2019s Civil Rights Division, says in a statement.\n\n The DOJ is seeking fair consideration and back pay for asylees and refugees who \u201cwere deterred or denied employment\u201d at SpaceX and is also seeking civil penalties in an amount that will be determined in court.",
+            "source_name": "The Verge",
+            "url": "https://www.theverge.com/2023/8/24/23844450/doj-spacex-lawsuit-hiring-discrimination",
+            "date": "2023-08-24 16:36:15+00:00"
+        },
+        {
+            "title": "SpaceX accused of age discrimination by former employee",
+            "summary": "A former SpaceX engineer published an essay today describing alleged age discrimination he says he experienced while he was at the company. \u201cI saw my work roles gradually transferred to younger engineers who fit the company\u2019s \u2018frat bro\u2019 mold,\u201d John Johnson writes in the essay published on the platform Lioness.\n\n \n\nJust before having back surgery in February 2020, Johnson says SpaceX started reassigning other, much younger engineers to take over many of his roles. Johnson, who has worked in the optics industry since he was in his 20s, was initially pumped to join SpaceX in 2018 as a principal engineer. In a job interview for his role at SpaceX, Johnson says he was asked whether he\u2019d \u201cbe okay\u201d working with young colleagues.",
+            "source_name": "The Verge",
+            "url": "https://www.theverge.com/2022/11/30/23484694/spacex-age-discrimination-complaint-former-employee",
+            "date": "2022-11-30 14:02:15+00:00"
+        },
+        {
+            "title": "Justice Department Sues SpaceX, Alleging Discrimination",
+            "summary": "Distribution and use of this material are governed by our Subscriber Agreement and by copyright law.",
+            "source_name": "Wall Street Journal",
+            "url": "https://www.wsj.com/articles/justice-department-sues-spacex-alleging-discrimination-against-refugees-7b3ba8c0",
+            "date": "2023-08-24 16:42:17+00:00"
+        },
+        {
+            "title": "U.S. sues SpaceX over alleged discrimination",
+            "summary": "STORY: Business is booming at SpaceX. Recent launches by Elon Musk's rocket company included one lifting a new space telescope for Europe. U.S. sues SpaceX over alleged discrimination\n  Reuters Videos\n  In this article:\n  Elon Musk\n  STORY: Business is booming at SpaceX.\n  Recent launches by Elon Musk's rocket company included one lifting a new space telescope for Europe.\n   In a new post, Musk said the lawsuit was the \u201cweaponization of the DOJ for political purposes\". In a new post, Musk said the lawsuit was the \u201cweaponization of the DOJ for political purposes\".\n   It says SpaceX job ads wrongly claimed that posts were only open to U.S. citizens and green card holders.",
+            "source_name": "Yahoo - Singapore",
+            "url": "https://sg.news.yahoo.com/u-sues-spacex-over-alleged-071512497.html",
+            "date": "2023-08-25 07:34:05+00:00"
+        },
+        {
+            "title": "DOJ sues SpaceX for hiring discrimination - The Verge",
+            "summary": "",
+            "source_name": "Google News",
+            "url": "https://news.google.com/rss/articles/CBMiVGh0dHBzOi8vd3d3LnRoZXZlcmdlLmNvbS8yMDIzLzgvMjQvMjM4NDQ0NTAvZG9qLXNwYWNleC1sYXdzdWl0LWhpcmluZy1kaXNjcmltaW5hdGlvbtIBAA?oc=5",
+            "date": "2023-08-24 17:38:40+00:00"
+        },
+        {
+            "title": "SpaceX Faces Age Discrimination Accusations From Former Employee",
+            "summary": "Former SpaceX engineer John Johnson published an essay containing age discrimination accusations against the company.\n\n \u201cI saw my work gradually transferred to younger engineers who fit the company\u2019s \u2018frat bro\u2019 mold,\u201d said his essay on the whistleblower platform Lioness.\n\n Beforehand, John Johnson said the company started reassigning his roles to younger employees.\n\n They said they would investigate, but Johnson writes, \u201cnothing was done to remedy my situation or restore my job duties.\u201d\n\nSpaceX faces other issues besides age discrimination accusations. Moreover, a manager allegedly asked one of the newer staff members to \u201cshadow\u201d Johnson in case he \u201cmight die or retire.\u201d\n\nJohnson eventually reported to HR and emailed SpaceX president Gwynne Shotwell regarding his age discrimination accusations.",
+            "source_name": "Philippine Daily Inquirer",
+            "url": "https://technology.inquirer.net/119867/spacex-faces-age-discrimination-accusations/",
+            "date": "2022-12-01 02:42:20+00:00"
+        },
+        {
+            "title": "SpaceX Sued Over Alleged Employment Discrimination: DOJ",
+            "summary": "Business SpaceX Sued Over Alleged Employment Discrimination: (AP Photo/Jae C. Hong)\n\nHAWTHORNE, CA \u2014 The U.S. Department of Justice sued SpaceX Thursday, alleging Elon Musk's Hawthorne-based space company discriminated against refugees and asylum seekers in its hiring practices.\n\n \"Our investigation found that SpaceX failed to fairly consider or hire asylees and refugees because of their citizenship status and imposed what amounted to a ban on their hire regardless of their qualification, in violation of federal law,\" Kristen Clarke, assistant attorney general of the DOJ's Civil Rights Division, said in a statement.\n\n DOJ The DOJ alleged Elon Musk's Hawthorne-based space company discriminated against refugees and asylum seekers in its hiring practices. Clarke added that SpaceX \"recruiters and high-level officials took actions that actively discouraged asylees and refugees from seeking work opportunities at the company.\"",
+            "source_name": "Google Enterprise Blog",
+            "url": "https://patch.com/california/redondobeach/spacex-sued-over-alleged-employment-discrimination-doj",
+            "date": "2023-08-24 19:30:43+00:00"
+        },
+        {
+            "title": "Ex-engineer files age discrimination complaint against SpaceX",
+            "summary": "SpaceX has become the subject of another worker dispute just weeks after unfair labor complaints were filed against the company.\n\n A former engineer at SpaceX, the Elon Musk-run rocket company, filed an age discrimination complaint against the firm with the state of Washington alleging he was repeatedly passed up for opportunities in favor of younger, less experienced colleagues and was retaliated against when he filed complaints with the company\u2019s human resources department and chief operating officer.\n\n John Johnson, a former principal optics manufacturing engineer at SpaceX who was hired in 2018 at the age of 58, said he was routinely stripped of responsibilities after he underwent back surgery due to a work-related incident, according to an affidavit the Guardian reviewed. Johnson said he was inspired to lodge internal complaints by a former SpaceX engineer, Ashley Kosak, who spoke publicly about the harassment she experienced at the company.\n\n Alternatively, the agency may choose to do a broader investigation if Johnson\u2019s allegations are found to be part of a larger pattern of discrimination at SpaceX.\n\nSpaceX did not respond to a request for comment by the time this story was published.",
+            "source_name": "The Guardian",
+            "url": "https://www.theguardian.com/science/2022/nov/30/spacex-age-discrimination-complaint-washington-state",
+            "date": "2022-11-30 14:09:07+00:00"
+        },
+        {
+            "title": "Feds Accuse SpaceX of Hiring Discrimination Against Refugees and Asylees",
+            "summary": "SpaceX\u2019s Starship rocket on its launchpad at the company\u2019s Starbase facility in Boca Chica, Texas.\n\n\n\n \u201cThrough this lawsuit we will hold SpaceX accountable for its illegal employment practices and seek relief that allows asylees and refugees to fairly compete for job opportunities and contribute their talents to SpaceX\u2019s workforce.\u201d\n\nFor more spaceflight in your life, follow us on Twitter and bookmark Gizmodo\u2019s dedicated Spaceflight page.\n\n SpaceX\u2019s Starship rocket on its launchpad at the company\u2019s Starbase facility in Boca Chica, Texas.\n\n The Department of Justice filed a lawsuit Thursday against SpaceX for allegedly refusing to hire refugees and asylees.",
+            "source_name": "Yahoo",
+            "url": "https://news.yahoo.com/feds-accuse-spacex-hiring-discrimination-191400352.html",
+            "date": "2023-08-25 00:04:17+00:00"
+        },
+        {
+            "title": "Dept. Of Justice Sues SpaceX Over Hiring Discrimination",
+            "summary": "Crime & Safety Dept. Of Justice Sues SpaceX The company discouraged asylees and refugees from applying for jobs, failed to fairly consider their applications and refused to hire qualified applicants because of their citizenship status, hiring only citizens and lawful permanent residents from September 2018 to September 2020, authorities said.\n\nIncluded in the lawsuit is a June 16, 2020, tweet from Musk, who wrote, \u201cU.S. law requires at least a green card to be hired at SpaceX, as rockets are advanced weapons technology.\u201d \u201cOur investigation found that SpaceX failed to fairly consider or hire asylees and refugees because of their citizenship status and imposed what amounted to a ban on their hire regardless of their qualification, in violation of federal law,\u201d Assistant Attorney General Kristen Clarke, of the Justice Department\u2019s Civil Rights Division, said in a news release.\n\n The lawsuit alleges that from September 2018 to May 2022 the Hawthorne-based company discouraged asylees and refugees from applying for jobs and refused to hire them because of their citizenship status, in violation of the Immigration and Nationality Act. (AP Photo/Marcio Jose Sanchez, File)\n\nHAWTHORNE, CA \u2014 The U.S. Department of Justice is suing SpaceX over allegations the company discriminated against asylees and refugees in its hiring practices, citing, among other things, a 2020 tweet from CEO Elon Musk.",
+            "source_name": "Google Enterprise Blog",
+            "url": "https://patch.com/california/los-angeles/dept-justice-sues-spacex-over-hiring-discrimination",
+            "date": "2023-08-24 21:51:24+00:00"
+        },
+        {
+            "title": "Elon Musk's SpaceX sued over allegations of hiring discrimination",
+            "summary": "Vishwam Sankaran  \u00b7   These laws allow companies like SpaceX to hire asylees and refugees for the same positions as US citizens and lawful permanent residents.\n   \u201cOur investigation found that SpaceX failed to fairly consider or hire asylees and refugees because of their citizenship status and imposed what amounted to a ban on their hire regardless of their qualification, in violation of federal law,\u201d assistant attorney general Kristen Clarke of the Justice Department's Civil Rights Division said.\n   SpaceX wrongly claimed in job postings and public statements over several years that, under federal regulations known as \u201cexport control laws\u201d, the company could hire only US citizens and lawful \u201cgreen card\u201d holding permanent residents, while the US export control laws impose no such hiring restrictions, according to the lawsuit.\n   An investigation then found that SpaceX recruiters and high-level officials took actions that \u201cactively discouraged asylees and refugees from seeking work opportunities at the company,\u201d the DoJ said in a statement.",
+            "source_name": "Seven",
+            "url": "https://au.news.yahoo.com/elon-musk-spacex-sued-over-072211048.html",
+            "date": "2023-08-25 07:41:05+00:00"
+        },
+        {
+            "title": "Justice Department sues Elon Musk\u2019s SpaceX for hiring discrimination",
+            "summary": "The Justice Department sued Elon Musk\u2019s company SpaceX for allegedly discriminating against asylum-seekers and refugees in its hiring practices.\n\n She added, \u201cThrough this lawsuit we will hold SpaceX accountable for its illegal employment practices and seek relief that allows asylees and refugees to fairly compete for job opportunities and contribute their talents to SpaceX\u2019s workforce.\u201d\n\nThe Justice Department requested that the assigned administrative law judge order SpaceX \u201cto cease and desist from the illegal practices\u201d described in the complaint, and to pay an appropriate civil penalty.\n\n Assistant Attorney General Kristen Clarke of the Justice Department\u2019s Civil Rights Division said in the department\u2019s press release: \u201cAsylees and refugees have overcome many obstacles in their lives, and unlawful employment discrimination based on their citizenship status should not be one of them.\u201d\n\n As laid out in the Justice Department\u2019s press release, under the INA, employers cannot discriminate against asylees and refugees in hiring, unless the employer is mandated to by a law or regulation. However, in the case of SpaceX, no order \u201cpermitted SpaceX to engage in the widespread discrimination against asylees or refugees that the department\u2019s investigation found.\u201d",
+            "source_name": "Yahoo",
+            "url": "https://news.yahoo.com/justice-department-sues-elon-musk-213111507.html",
+            "date": "2023-08-24 21:49:50+00:00"
+        },
+        {
+            "title": "Justice Department sues Elon Musk's SpaceX for hiring discrimination",
+            "summary": "Assistant Attorney General Kristen Clarke of the Justice Department's Civil Rights Division said in the department's press release: \u201cAsylees and\nrefugees have overcome many obstacles in their lives, and unlawful employment discrimination based on their citizenship status should not be one of them.\u201d\n   She added, \u201cThrough this lawsuit we will hold SpaceX accountable for its illegal employment practices and seek relief that allows asylees and refugees to fairly compete for job opportunities and contribute their talents to SpaceX's workforce.\u201d",
+            "source_name": "Seven",
+            "url": "https://au.news.yahoo.com/justice-department-sues-elon-musk-213111186.html",
+            "date": "2023-08-24 22:17:42+00:00"
+        },
+        {
+            "title": "Ex-SpaceX engineer, 62, accuses Musk's firm of age discrimination",
+            "summary": "A 62-year-old former SpaceX engineer says that Elon Musk's company discriminated against him on the basis of age during his time there.\n\n According to Johnson, a manufacturing engineer who was assigned to 'shadow' him\u00a0 said his Starlink manager had said Johnson 'might retire or die.'\n\n'I was 61, with six more years to the standard retirement age, even if I was considering retiring\u2014which I was not. John Johnson was hired in 2018 at age 58 because of his expertise in a sector called optics engineering that happens to be crucial to a range of applications related to the aerospace company's work.\n\n In his essay published on the platform Lioness, Johnson makes a point of saying that he often put in 10-12 hour days, seven days a week at the company's California offices - and consistently received positive feedback from managers during his performance reviews.",
+            "source_name": "Daily Mail UK",
+            "url": "https://www.dailymail.co.uk/sciencetech/article-11491527/Former-SpaceX-engineer-62-accuses-Elon-Musks-company-age-discrimination.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+            "date": "2022-12-01 18:43:00+00:00"
+        },
+        {
+            "title": "SpaceX Sued by US Justice Department Over Alleged Discrimination in Hiring",
+            "summary": "The US Justice Department sued Elon Musk-owned rocket and satellite company SpaceX on Thursday for allegedly discriminating against asylum seekers and refugees in hiring.\n\n \"Our investigation found that SpaceX failed to fairly consider or hire asylees and refugees because of their citizenship status and imposed what amounted to a ban on their hire regardless of their qualification, in violation of federal law,\" said US Assistant Attorney General Kristen Clarke of the Justice Department's civil rights division.\n\n \"The lawsuit alleges that, from at least September 2018 to May 2022, SpaceX routinely discouraged asylees and refugees from applying and refused to hire or consider them, because of their citizenship status, in violation of the Immigration and Nationality Act,\" the Justice Department said in a statement.\n\n \"\n\nThe lawsuit cited a June 2020 post on X, formerly called Twitter, by CEO Musk to his then 36 million followers that said: \"US law requires at least a green card to be hired at SpaceX, as rockets are advanced weapons technology. \"\n\nUS law requires at least a green card to be hired at SpaceX, as rockets are considered advanced weapons technology \u2014 Elon Musk (@elonmusk) June 16, 2020\n\nSpaceX did not immediately respond to a request for comment on the lawsuit.",
+            "source_name": "NDTV Gadgets",
+            "url": "https://www.gadgets360.com/science/news/spacex-sued-us-justice-department-alleged-discrimination-asylum-seekers-refugees-hiring-4327042#rss-gadgets-all",
+            "date": "2023-08-24 17:01:53+00:00"
+        },
+        {
+            "title": ": Justice Department sues Elon Musk\u2019s SpaceX alleging hiring discrimination",
+            "summary": "The U.S. Department of Justice filed a lawsuit against Elon Musk\u2019s SpaceX, alleging the space exploration company discriminated in its hiring practices by illegally disqualifying asylees and refugees from jobs.\n\n In a lawsuit filed Thursday in federal court in Washington, D.C., the Justice Department said that for years, SpaceX officials from Musk, its chief executive, on down, repeatedly said it could only hire U.S. citizens and green card holders in public statements, job posts and at recruitment fairs.\n\n The suit said that from 2018 through 2020, SpaceX routinely rejected applicants who had been granted asylum or refugee status and only hired those who were U.S. citizens or had green cards.\n\n But the Department of Justice argued that people who had received refugee status or had been granted asylum in the U.S. have the same rights to work as citizens and green card holders. \u201cU.S. law requires at least a green card to be hired at SpaceX, as rockets are advanced weapons technology\u201d the suit quoted Musk as saying in a post on X in 2020, when it was known as Twitter.",
+            "source_name": "Market Watch",
+            "url": "http://www.marketwatch.com/news/story.asp?guid=%7B20C06575-04D4-B545-7253-4752E3AA1843%7D&siteid=nf-rss",
+            "date": "2023-08-24 17:43:23+00:00"
+        },
+        {
+            "title": "SpaceX sued by Justice Department over alleged asylee, refugee discrimination",
+            "summary": "The Department of Justice is suing SpaceX, the aerospace company owned by Elon Musk, over alleged discriminatory practices against people living in the country under asylum and refugees.\n\n The complaint contends that Musk and SpaceX's leadership repeatedly made false claims that the company couldn't hire anyone who wasn't a U.S. citizen or green card holder, because of \"export control laws,\" but the Department of Justice argued that those laws do not enforce such restrictions.\n\n In this April 19, 2022, file photo, the SpaceX headquarters is shown in Hawthorne, Calif. Bloomberg via Getty Images, FILE\n\nThe suit claimed a recruiter used that rejection code for an asylee \"who had more than nine years of relevant engineering experience and had graduated from Georgia Tech University.\"\n\nData from SpaceX showed that from Sept. 2018 to May 2022, the company hired 10,000 people and only one was an asylee, according to the Dept. of Justice. \"\n\nThe Dept. of Justice claimed from Sept. 2018 to March 2022, SpaceX job applications asked potential candidates to identify their citizenship status and had the options \"U.S.; citizen or national of the United States,\" \"U.S. lawful permanent resident,\" \"refugee under 8 U.S.C. 1157,\" \"asylee under 8 U.S.C. 1158,\" or \"other. The suit also cites a 2016 video of Musk claiming \"a normal work visa is insufficient to work at SpaceX unless the company can obtain 'special permission from the Secretary of Defense or Secretary of State,\" and a June 2020 post he made on X, formerly Twitter, where he claimed \"U.S. law requires at least a green card to be hired at SpaceX, as rockets are advanced weapons technology.",
+            "source_name": "ABC News",
+            "url": "https://abcnews.go.com/Business/spacex-sued-justice-department-alleged-asylee-refugee-discrimination/story?id=102535890",
+            "date": "2023-08-24 20:16:38+00:00"
+        },
+        {
+            "title": "Feds accuse SpaceX of discrimination against asylum recipients and refugees - POLITICO",
+            "summary": "",
+            "source_name": "Google News",
+            "url": "https://news.google.com/rss/articles/CBMiUWh0dHBzOi8vd3d3LnBvbGl0aWNvLmNvbS9uZXdzLzIwMjMvMDgvMjQvc3BhY2V4LWRpc2NyaW1pbmF0aW9uLWNvbXBsYWludC0wMDExMjgzNNIBAA?oc=5",
+            "date": "2023-08-25 18:52:42+00:00"
+        },
+        {
+            "title": "US sues SpaceX for alleged hiring discrimination against refugees and others",
+            "summary": "FILE - The U.S. Department of Justice logo is seen on a podium following a news conference in the office of the U.S. Attorney for the District of Maryland in Baltimore, March 1, 2017. (AP Photo/Patrick Semansky, File)\n\nThe U.S. Department of Justice has sued SpaceX, the rocket company founded and run by Elon Musk, for alleged hiring discrimination against refugees and people seeking or already granted asylum\n\nWASHINGTON -- On Thursday, Aug. 24, 2023, the U.S. Department of Justice filed suit against SpaceX, the rocket company founded and run by Elon Musk, for alleged hiring discrimination against refugees and people seeking or already granted asylum. On Thursday, Aug. 24, 2023, the U.S. Department of Justice filed suit against SpaceX, the rocket company founded and run by Elon Musk, for alleged hiring discrimination against refugees and people seeking or already granted asylum. On Thursday, Aug. 24, 2023, the U.S. Department of Justice filed suit against SpaceX, the rocket company founded and run by Elon Musk, for alleged hiring discrimination against refugees and people seeking or already granted asylum.",
+            "source_name": "ABC News",
+            "url": "https://abcnews.go.com/Business/wireStory/us-sues-spacex-alleged-hiring-discrimination-refugees-102548807",
+            "date": "2023-08-24 23:05:57+00:00"
+        },
+        {
+            "title": "US sues SpaceX for alleged hiring discrimination against refugees and others",
+            "summary": "US sues SpaceX for alleged hiring discrimination against refugees and others\n\nThe U.S. Department of Justice on Thursday sued SpaceX, the rocket company founded and run by Elon Musk, for alleged hiring discrimination against refugees and people seeking or already granted asylum.\n\n The complaint, filed in an administrative court within the department, asserts that SpaceX wrongly claimed that federal export control laws barred it from hiring anyone but U.S. citizens and permanent residents. The U.S. is seeking \u201cfair consideration and back pay\u201d for people who were deterred from or denied employment at SpaceX due to the company\u2019s alleged discrimination, in addition to undetermined civil penalties.\n\n But the Justice Department noted that the term includes not only U.S. citizens, but also permanent U.S. residents, refugees, and those seeking or granted asylum.\n\n As a result, it discouraged refugees and asylum seekers and grantees from applying for jobs at the company, according to the complaint.",
+            "source_name": "Money Control",
+            "url": "https://www.moneycontrol.com/news/world-news/us-sues-spacex-for-alleged-hiring-discrimination-against-refugeesothers_17218431.html",
+            "date": "2023-08-25 01:29:37+00:00"
+        },
+        {
+            "title": "Elon Musk's SpaceX sued by US Justice Department for hiring discrimination",
+            "summary": "Elon Musk, Chief Executive Officer of SpaceX and Tesla and owner of Twitter, gestures as he attends the Viva Technology conference dedicated to innovation and startups at the Porte de Versailles exhibition centre in Paris, France, June 16, 2023. The department alleges that SpaceX wrongly claimed that it can only hire US citizens and lawful permanent residents (green card holders), saying it was mandated by \u201cexport control laws.\u201d Also, asylees and refugees reportedly stand on equal footing with American citizens and permanent residents under the export control laws. According to the department, export control laws don\u2019t call for such hiring restrictions. The Department of Justice is a federal executive department of the US government that is tasked with the enforcement of federal law in the country.",
+            "source_name": "Indian Express",
+            "url": "https://indianexpress.com/article/technology/science/spacex-lawsuit-sued-hiring-discrimination-8910232/",
+            "date": "2023-08-26 05:40:37+00:00"
+        },
+        {
+            "title": "Elon Musk's SpaceX sued by US Justice Department for hiring discrimination",
+            "summary": "The United States Department of Justice has filed a lawsuit against Elon Musk's SpaceX for discriminating against refugees and asylees while hiring.\n  The United States Department of Justice announced Thursday that it filed a lawsuit against Elon Musk-owned SpaceX for discriminating against refugees and asylees in their hiring process. Also, asylees and refugees reportedly stand on equal footing with American citizens and permanent residents under the export control laws. The department alleges that SpaceX wrongly claimed that it can only hire US citizens and lawful permanent residents (green card holders), saying it was mandated by \u201cexport control laws.\u201d According to the department, export control laws don't call for such hiring restrictions.",
+            "source_name": "Indian Express",
+            "url": "https://indianexpress.com/article/technology/science/spacex-lawsuit-sued-hiring-discrimination-8910232/lite/",
+            "date": "2023-08-26 06:09:42+00:00"
+        },
+        {
+            "title": "US sues SpaceX, alleging discrimination against hiring asylees and refugees",
+            "summary": "Elon Musk's SpaceX discriminated against asylees and refugees by discouraging them from applying for jobs and by refusing to consider or hire them\nbecause of their citizenship status, the Justice Department alleges in a lawsuit filed Thursday.\n   In an investigation, the Justice Department",
+            "source_name": "Scribd",
+            "url": "https://www.scribd.com/article/667166997/Us-Sues-Space-X-Alleging-Discrimination-Against-Hiring-Asylees-And-Refugees",
+            "date": "2023-08-25 12:28:43+00:00"
+        }
+    ]
+}

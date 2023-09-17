@@ -1,0 +1,179 @@
+{
+    "articles": [
+        {
+            "title": "ESG Blowback: Exxon, Chevron Investors Reject Climate Measures",
+            "summary": "Distribution and use of this material are governed by our Subscriber Agreement and by copyright law.",
+            "source_name": "Wall Street Journal",
+            "url": "https://www.wsj.com/articles/esg-blowback-exxon-chevron-investors-reject-climate-measures-4532da99?mod=pls_whats_news_us_business_f",
+            "date": "2023-06-01 05:08:12+00:00"
+        },
+        {
+            "title": "Chevron (CVX), Hyzon to Invest in Renewable Fuels Company",
+            "summary": "Meanwhile, investors interested in the energy sector might look at operators like Nine Energy Service NINE and Patterson-UTI Energy PTEN, each carrying a Zacks Rank #1 (Strong Buy), currently. Per the agreement, Chevron's New Energies division and Hyzon Zero Carbon \u2014 a subsidiary of the New York-based company \u2014 will invest in Raven SR S1 LLC. PTEN beat the Zacks Consensus Estimate for earnings in three of the last four quarters. With Hyzon yet to come up with quarterly earnings since the first quarter of 2022, the CVX collaboration news comes as some sort of positive for the embattled investors.",
+            "source_name": "Yahoo! Finance News",
+            "url": "https://finance.yahoo.com/news/chevron-cvx-hyzon-invest-renewable-102610026.html",
+            "date": "2022-12-30 11:54:48+00:00"
+        },
+        {
+            "title": "Corteva, Bunge, Chevron partner to produce renewable fuels",
+            "summary": "March 14 (Reuters) - Bunge Chevron Ag Renewables, a joint venture between Bunge and Chevron, will purchase the harvested winter canola crop from farmers and use the resulting oil to create renewable fuel.\n\n Chevron Corp (CVX.N) is collaborating with agribusiness firms Corteva Inc (CTVA.N) and Bunge Ltd (BG.N) to produce renewable fuels from canola crops, the companies announced on Tuesday.\n\n By introducing the winter canola crop, the companies said they hope to provide a sustainable crop rotation option and create a new revenue stream for farmers.\n\n Reporting by Arshreet Singh; Editing by Pooja Desai\n\n\n\n\n\n\n\n\n\n\n\nOur Standards: The Thomson Reuters Trust Principles.",
+            "source_name": "Reuters",
+            "url": "https://www.reuters.com/business/energy/corteva-bunge-chevron-partner-produce-renewable-fuels-2023-03-14/",
+            "date": "2023-03-14 13:32:53+00:00"
+        },
+        {
+            "title": "Corteva, Bunge, Chevron partner to produce renewable fuels",
+            "summary": "Bunge Chevron Ag Renewables, a joint venture between Bunge and Chevron, will purchase the harvested winter canola crop from farmers and use the resulting oil to create renewable fuel.\n Bunge Chevron Ag Renewables, a joint venture between Bunge and Chevron, will purchase the harvested winter canola crop from farmers and use the resulting oil to create renewable fuel.\n   Chevron Corp is collaborating with agribusiness firms Corteva Inc and Bunge Ltd to produce renewable fuels from canola crops, the companies announced on Tuesday.\n   As part of the collaboration, the companies will introduce winter canola hybrids in the southern United States.\n   As part of the collaboration, the companies will introduce winter canola hybrids in the southern United States.",
+            "source_name": "Energy Economictimes",
+            "url": "https://energy.economictimes.indiatimes.com/news/oil-and-gas/corteva-bunge-chevron-partner-to-produce-renewable-fuels/98662906",
+            "date": "2023-03-15 12:04:44+00:00"
+        },
+        {
+            "title": "Corteva, Bunge, Chevron partner to produce renewable fuels",
+            "summary": "MailOnline logo",
+            "source_name": "Daily Mail UK",
+            "url": "https://www.dailymail.co.uk/wires/reuters/article-11858437/Corteva-Bunge-Chevron-partner-produce-renewable-fuels.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+            "date": "2023-03-14 13:27:11+00:00"
+        },
+        {
+            "title": "Corteva, Bunge, Chevron partner to produce renewable fuels",
+            "summary": "The transportation sector accounts for about a quarter of the United States' greenhouse gases. Bunge Chevron Ag Renewables, a joint venture between Bunge and Chevron, will purchase the harvested winter canola crop from farmers and use the resulting oil to create renewable fuel.\n   March 15, 2023, 16:09 IST\n  Chevron Corp is collaborating with agribusiness firms Corteva Inc and Bunge Ltd to produce renewable fuels from canola crops, the companies announced on Tuesday.\n   The U.S. Energy Department projects that renewable diesel will be about 7% of the overall diesel pool by 2030; it is currently just 5%.\n  The U.S. Energy Department projects that renewable diesel will be about 7% of the overall diesel pool by 2030; it is currently just 5%.",
+            "source_name": "ET Auto News",
+            "url": "https://auto.economictimes.indiatimes.com/news/industry/corteva-bunge-chevron-partner-to-produce-renewable-fuels/98660697",
+            "date": "2023-03-15 11:04:53+00:00"
+        },
+        {
+            "title": "Unsurprisingly, Chevron's carbon offsets are mostly junk",
+            "summary": "Chevron\u2019s carbon offset programs are not delivering what they claim.\n\n New research published Wednesday (May 24) by Corporate Accountability, a nonprofit corporate watchdog, has found that 93% of Chevron\u2019s carbon offset programs between 2020 and 2022 have not led to reductions of greenhouse gas emissions. The goals are mutually exclusive, and the methods\u2014primarily carbon offsets and carbon capture and storage technologies\u2014are so far proving to be better at justifying fossil fuel use than reducing greenhouse gas emissions.\n\n\n\n Carbon offsets have long been under scrutiny for failing to reduce carbon emissions while providing a veil for corporations to claim that their continued emissions are paired with a project that is good for the environment.",
+            "source_name": "Yahoo",
+            "url": "https://news.yahoo.com/unsurprisingly-chevrons-carbon-offsets-mostly-160200125.html",
+            "date": "2023-05-24 16:53:06+00:00"
+        },
+        {
+            "title": "Chevron Reaffirms Higher Returns, Lower Carbon Objectives",
+            "summary": "The company expects annual free cash flow growth greater than 10% at $60 Brent and is raising its share buyback guidance range to $10 to $20 billion per year. --At its annual investor meeting today, Chevron Corporation (NYSE: CVX) reported on its progress to leverage its strengths to safely deliver lower carbon energy to a growing world.\n   Higher Returns\n  Chevron expects to maintain capital and cost discipline to deliver higher returns while growing energy supplies. In line with these objectives, the company announced it is:\n  Maintaining its guidance for annual organic capital expenditures of $13 billion to $15 billion through 2027.",
+            "source_name": "Yahoo! Finance News",
+            "url": "https://finance.yahoo.com/news/chevron-reaffirms-higher-returns-lower-103000203.html",
+            "date": "2023-02-28 10:48:17+00:00"
+        },
+        {
+            "title": "Chevron invests in lower-carbon pilot projects in Australia",
+            "summary": "Reuters  Companies  Aug 10 (Reuters) - Chevron (CVX.N) said on Thursday it would invest in two lower-carbon pilot projects in Western Australia.\n  Chevron plans to invest $10 billion in lower-carbon projects through 2028, as the industry has made such initiatives central to its net-zero strategies.\n   The energy major would provide funding to Carbon Sync, which is leading a soil carbon sequestration pilot project as well as a research project with Deakin University to explore potential carbon dioxide sequestration opportunities in the region's coastal wetlands.",
+            "source_name": "Reuters",
+            "url": "https://www.reuters.com/sustainability/climate-energy/chevron-invests-lower-carbon-pilot-projects-australia-2023-08-10/",
+            "date": "2023-08-10 22:48:23+00:00"
+        },
+        {
+            "title": "Chevron's Nelson Discusses Goals for Low Carbon Future",
+            "summary": "Chevron's Nelson Discusses Goals for Low Carbon Future\n\nDuration: 10:41\n\nChevron Vice Chairman and Executive VP Mark Nelson said, \"Our strategy is to essentially use our strengths to deliver the lower carbon energy the world needs today.\" Mark Nelson spoke to Alix Steel from Bloomberg News at the CERAWeek by S&P Global conference in Houston.",
+            "source_name": "MSN UK",
+            "url": "https://www.msn.com/en-gb/money/other/chevron-s-nelson-discusses-goals-for-low-carbon-future/vi-AA18kZGv",
+            "date": "2023-03-07 23:10:59+00:00"
+        },
+        {
+            "title": "Chevron invests in lower-carbon pilot projects in Australia",
+            "summary": "Aug 10 (Reuters) - Chevron said on Thursday it would invest in two lower-carbon pilot projects in Western Australia.\n  Chevron plans to invest $10 billion in lower-carbon projects through 2028, as the industry has made such initiatives central to its net-zero strategies.\n   The energy major would provide funding to Carbon Sync, which is leading a soil carbon sequestration pilot project as well as a research project with Deakin University to explore potential carbon dioxide sequestration opportunities in the region's coastal wetlands.",
+            "source_name": "Reuters",
+            "url": "https://www.reuters.com/article/chevron-carbon/chevron-invests-in-lower-carbon-pilot-projects-in-australia-idUSL4N39R4X4",
+            "date": "2023-08-10 22:51:47+00:00"
+        },
+        {
+            "title": "Chevron to Invest in Lower Carbon Projects in Western Australia",
+            "summary": "By Stephen Nakrosis\n\nChevron said Thursday it would invest in lower carbon projects through its Chevron Australia New Energies Pty and Chevron Australia Pty subsidiaries.\n\n The San Ramon, Calif.-based energy company said it would provide funding for Carbon Sync, a soil carbon sequestration pilot project which involves up to 80,000 hectares, or nearly 200,000 acres, in Western Australia.",
+            "source_name": "Market Watch",
+            "url": "https://www.marketwatch.com/story/chevron-to-invest-in-lower-carbon-projects-in-western-australia-4d192406",
+            "date": "2023-08-11 01:40:51+00:00"
+        },
+        {
+            "title": "Chevron invests in lower-carbon pilot projects in Australia",
+            "summary": "The energy major would provide funding to Carbon Sync, which is leading a soil carbon sequestration pilot project as well as a research project with Deakin University to explore potential carbon dioxide sequestration opportunities in the region's coastal wetlands.\n  Chevron plans to invest $10 billion in lower-carbon projects through 2028, as the industry has made such initiatives central to its net-zero strategies.\n  (Reporting by Sourasis Bose in Bengaluru; Editing by Shinjini Ganguli)",
+            "source_name": "Yahoo! Finance News",
+            "url": "https://finance.yahoo.com/news/chevron-invests-lower-carbon-pilot-224347645.html",
+            "date": "2023-08-10 22:51:32+00:00"
+        },
+        {
+            "title": "Chevron Touts Renewable Gasoline as Alternative to Electric Cars",
+            "summary": "(Bloomberg) -- Chevron Corp. plans to showcase \u201crenewable gasoline\u201d it claims will eventually offer similar emissions savings to electric cars, just days after the US proposed the toughest-ever tailpipe pollution limits. A Toyota Motor Corp. hybrid RAV4 running on renewable gasoline would have a similar carbon footprint to a pure-electric vehicle in 2040, the company forecasts. \n Most Read from Bloomberg\n  Tests show that the fuel, partly made from renewable feedstocks like used cooking oil, produces 40% fewer greenhouse gases than regular gasoline, Chevron said in a statement Monday.\n   Read More: Exxon and Toyota Test Low-Carbon Fuels in Gasoline Engines\n  Chevron will demonstrate the renewable gasoline by taking three Toyotas on a road trip across the US Gulf Coast. For commercial viability, the low-carbon fuel will need fiscal incentives like those built into California's Low Carbon Fuel Standard, said Andy Walz, president of Chevron's fuels and lubricants Americas division.",
+            "source_name": "Yahoo",
+            "url": "https://news.yahoo.com/chevron-touts-renewable-gasoline-alternative-120000011.html",
+            "date": "2023-04-17 19:41:47+00:00"
+        },
+        {
+            "title": "Chevron Road Trip Demonstrates Renewable Gasoline Blend",
+            "summary": "SAN RAMON, Calif., April 17, 2023 BUSINESS WIRE )--Chevron U.S.A. Inc., a subsidiary of Chevron Corporation (NYSE: CVX), kicked off a road trip today across the U.S. Gulf Coast to showcase an innovative new gasoline blend with more than 50 percent renewable content. Along with innovation from engine manufacturers and public policy supporting lower carbon fuels, renewable gasoline blends are intended to reduce the carbon intensity of light and medium duty vehicles already on the road.\n   To complement these efforts, Chevron has developed, produced, and tested blends of renewable gasoline with the goal of such blends being manufactured using today's infrastructure and used in almost any gasoline-powered vehicle to deliver an immediate carbon intensity reduction over traditional gasoline.\n   \"With more than 265 million gasoline-powered vehicles on the road today in the United States, renewable gasoline blends could empower virtually all drivers to have a role in a lower carbon transportation future. During the tour, Chevron representatives will talk with members of the public about the benefits of lower carbon fuels like biofuels and renewable gasoline blend.",
+            "source_name": "Yahoo! Finance News",
+            "url": "https://finance.yahoo.com/news/chevron-road-trip-demonstrates-renewable-120000343.html",
+            "date": "2023-04-17 13:01:25+00:00"
+        },
+        {
+            "title": "Chevron tallies new investment for Gorgon carbon trap",
+            "summary": "Marion Rae  \u00b7  Australia's biggest carbon capture project is working but not at the rates Chevron promised, leaving the gas giant open to criticism.\n  It was required by regulators to include a carbon capture and storage system that critics have slammed as a failure because the injection rate of 1.6 million tonnes per year are one third of the target.\n   A final investment decision on improving Gorgon's carbon capture water handling system - vital for getting it back on target - will be made in the second half of the year.\n   The three-train, 15.6 million tonnes per year liquefied natural gas facility fuels Asian economies, while the domestic gas plant makes it the state's biggest supplier.\n   The system needs to run alongside the LNG and gas plant for the next 40 years, and reduce emissions as well as store them.",
+            "source_name": "Seven",
+            "url": "https://au.news.yahoo.com/chevron-tallies-investment-gorgon-carbon-230000772.html",
+            "date": "2023-05-19 00:30:10+00:00"
+        },
+        {
+            "title": "A Chevron Board Member on the Risk of Climate Change",
+            "summary": "Climate change is a \u201creal risk\u201d to energy companies, says Chevron board member Dambisa Moyo.\n\n Part of the role of Chevron\u2019s (CVX) board is to sort through which clean energy technologies the company should invest in. Moyo, who also sits on the board of 3M (ticker: MMM), Cond\u00e9 Nast, and the Oxford University Endowment investment committee, recently talked with Barron\u2019s Andy Sewer, sharing her thoughts on everything from the banking crisis to the future of clean energy.\n\n In Moyo\u2019s view, it isn\u2019t enough for energy suppliers to be thinking about mitigating climate risk through initiatives such as carbon capture.",
+            "source_name": "Market Watch",
+            "url": "http://www.marketwatch.com/news/story/chevron-board-member-risk-climate/story.aspx?guid=%7B20A05575%2D0424%2D1529%2D3A20%2D4E4D6D8E12C0%7D&siteid=nf-rss",
+            "date": "2023-03-29 12:52:06+00:00"
+        },
+        {
+            "title": "Chevron Invests in Carbon Capture and Removal Technology Company, Svante",
+            "summary": "In this article:  CVX  Chevron Invests in Carbon Capture and Removal Technology Company, Svante\n HOUSTON & VANCOUVER, British Columbia, December 15, 2022 BUSINESS WIRE )--Chevron New Energies (CNE), a division of Chevron U.S.A. Inc., and Svante announced that Chevron is the lead investor in Svante's Series E fundraising round, which raised $318 million that will be used to accelerate the manufacturing of Svante's carbon capture technology.\n   Among the important factors that could cause actual results to differ materially from those in the forward-looking statements are: changing crude oil and natural gas prices and demand for the company's products, and production curtailments due to market conditions; crude oil production quotas or other actions that might be imposed by the Organization of Petroleum Exporting Countries and other producing countries; technological advancements; changes to government policies in the countries in which the company operates; public health crises, such as pandemics (including coronavirus (COVID-19)) and epidemics, and any related government policies and actions; disruptions in the company's global supply chain, including supply chain constraints and escalation of the cost of goods and services; changing economic, regulatory and political environments in the various countries in which the company operates; general domestic and international economic and political conditions, including the military conflict between Russia and Ukraine and the global response to such conflict; changing refining, marketing and chemicals margins; actions of competitors or regulators; timing of exploration expenses; timing of crude oil liftings; the competitiveness of alternate-energy sources or product substitutes; development of large carbon capture and offset markets; the results of operations and financial condition of the company's suppliers, vendors, partners and equity affiliates, particularly during the COVID-19 pandemic; the inability or failure of the company's joint-venture partners to fund their share of operations and development activities; the potential failure to achieve expected net production from existing and future crude oil and natural gas development projects; potential delays in the development, construction or start-up of planned projects; the potential disruption or interruption of the company's operations due to war, accidents, political events, civil unrest, severe weather, cyber threats, terrorist acts, or other natural or human causes beyond the company's control; the potential liability for remedial actions or assessments under existing or future environmental regulations and litigation; significant operational, investment or product changes undertaken or required by existing or future environmental statutes and regulations, including international agreements and national or regional legislation and regulatory measures to limit or reduce greenhouse gas emissions; the potential liability resulting from pending or future litigation; the company's future acquisitions or dispositions of assets or shares or the delay or failure of such transactions to close based on required closing conditions; the potential for gains and losses from asset dispositions or impairments; government mandated sales, divestitures, recapitalizations, taxes and tax audits, tariffs, sanctions, changes in fiscal terms or restrictions on scope of company operations; foreign currency movements compared with the U.S. dollar; material reductions in corporate liquidity and access to debt markets; the receipt of required Board authorizations to implement capital allocation strategies, including future stock repurchase programs and dividend payments; the effects of changed accounting rules under generally accepted accounting principles promulgated by rule-setting bodies; the company's ability to identify and mitigate the risks and hazards inherent in operating in the global energy industry; and the factors set forth under the heading \"Risk Factors\" on pages 20 through 25 of the company's 2021 Annual Report on Form 10-K and in subsequent filings with the U.S. Securities and Exchange Commission. With the ability to capture CO from industrial sources and directly from the atmosphere in an environmentally sustainable way, Svante makes industrial-scale carbon capture and carbon removal a reality. This funding will support Svante's commercial-scale filter manufacturing facility in Vancouver, which is anticipated to produce enough filter modules to capture millions of tonnes of carbon dioxide (CO ) per year across hundreds of large-scale carbon capture and storage facilities.\n   \"We are proud that Chevron and a group of existing and new strategic and financial investors have demonstrated their confidence in Svante to be a key player in building a commercially viable carbon management industry,\" said Claude Letourneau, President and CEO of Svante.",
+            "source_name": "Yahoo UK",
+            "url": "https://uk.finance.yahoo.com/news/chevron-invests-carbon-capture-removal-213000800.html",
+            "date": "2022-12-15 21:37:24+00:00"
+        },
+        {
+            "title": "Chevron leads $318 mln raise for carbon capture tech...",
+            "summary": "By Virginia Furness\n\nDec 15 (Reuters) - U.S. oil company Chevron has led a $318 million fundraising round for Canada-based Svante, which develops filters to capture industrial carbon emissions for storage or reuse, the companies said on Thursday.\n\n JPMorgan said it had arranged around $1 billion of private equity capital for carbon capture companies and closed 10 private capital raises for clean tech companies this year to date. \"\n\n\"Innovation is key to enabling these types of breakthrough technologies and lower carbon solutions, and we look forward to applying our experience and expertise to help drive this effort forward.\"\n\nMichael Johnson, vice chairman investment banking at JPMorgan told Reuters raising such sums was a crucial step in scaling carbon capture technology.\n\n The deal is the largest North American raise for a carbon capture tech company to date, JPMorgan told Reuters. \"\n\nCurrent global carbon capture is about 45 million tons per year, JPMorgan said, but needs to grow around 30-fold to help the world reach net-zero carbon emissions by mid-century.",
+            "source_name": "Daily Mail UK",
+            "url": "https://www.dailymail.co.uk/wires/reuters/article-11543773/Chevron-leads-318-mln-raise-carbon-capture-tech-firm-Svante.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+            "date": "2022-12-15 21:38:52+00:00"
+        },
+        {
+            "title": "Corteva, Bunge, Chevron Target Renewable Fuels With Winter Canola",
+            "summary": "By Colin Kellaher\n\nCorteva Inc., Bunge Ltd. and Chevron Corp. on Tuesday said they will work together to introduce winter canola hybrids that produce plant-based oil with a lower carbon profile in a bid to boost the availability of feedstocks for the growing domestic renewable-fuels market.\n\n The companies said the proprietary winter canola hybrids...",
+            "source_name": "Market Watch",
+            "url": "https://www.marketwatch.com/story/corteva-bunge-chevron-target-renewable-fuels-with-winter-canola-bf80923e",
+            "date": "2023-03-14 21:36:24+00:00"
+        },
+        {
+            "title": "Chevron (CVX) to Fund Two Low-Carbon Projects in Australia",
+            "summary": "According to Chevron, its collaboration with Carbon Sync is anticipated to offer critical insights into soil carbon projects, in a region with huge potential for scale to help meet the forecasted demand for Australian Carbon Credit Units. Some better-ranked stocks in the energy space are CVR Energy Inc. CVI, Murphy USA Inc. MUSA and Crestwood Equity Partners LP CEQP. Apart from being a crucial component of Chevron's existing portfolio, Australia has enormous potential to develop businesses that would support the company's efforts to lower carbon emissions, he added.\n   While CVI sports a Zacks Rank #1 (Strong Buy), both MUSA and CEQP carry a Zacks Rank #2 (Buy) at present.",
+            "source_name": "Yahoo! Finance News",
+            "url": "https://finance.yahoo.com/news/chevron-cvx-fund-two-low-113500457.html",
+            "date": "2023-08-11 13:03:07+00:00"
+        },
+        {
+            "title": "Chevron (CVX) Expands Renewable Fuel MoU Coverage With Cummins",
+            "summary": "Chevron Corporation (CVX), a major oil and gas producer in the U.S., announced a memorandum of understanding (MoU) between its subsidiary Chevron U.S.A. Inc. and Cummins Inc. CMI to leverage complementary positioning in hydrogen, natural gas, and other lower carbon fuel value chains.\n\n In order to increase commercial adoption, workstreams in the new collaboration focus on hydrogen, natural gas and other low-carbon fuel alternatives, including biodiesel, compressed natural gas, renewable diesel and other liquid renewables.\n\n Chevron\u2019s president of Americas Products Andy Walz stated that collaborations like this (with Cummins) are intended to make energy and global supply chains more affordable and reliable while helping commercial fleets that use CVX products and Cummins\u2019 equipment to transition to a lower-carbon world. Together, Cummins and Chevron will enable the commercial development at scale of alternative fuels production, transportation and delivery systems for industrial and commercial markets. Apart from CVX, a couple of other stocks for investors interested in the energy sector are Evolution Petroleum Corporation EPM and Murphy USA Inc. MUSA.",
+            "source_name": "Yahoo! Finance News",
+            "url": "https://finance.yahoo.com/news/chevron-cvx-expands-renewable-fuel-131500819.html",
+            "date": "2023-08-15 15:12:24+00:00"
+        },
+        {
+            "title": "Bunge, Chevron acquire Argentina's Chacraservicios to meet renewable diesel demand",
+            "summary": "[1/2] Bunge Ltd logo is seen displayed in this illustration taken, April 10, 2023. Chacraservicios, which is focused on the cultivation of Camelina sativa, a crop with high oil content, will contribute to Bunge and Chevron's global supply chains by adding a new oil source to meet the growing demand for lower carbon renewable feedstocks, the companies said.\n\n Bunge has in the past two years entered partnerships with Chevron to crush oilseeds for renewable diesel, and with seedmaker Corteva (CTVA.N) to tailor crops for biofuel feedstocks.\n\n REUTERS/Dado Ruvic/Illustration/File Photo\n\nJuly 5 (Reuters) - Grains merchant Bunge (BG.N) and oil major Chevron (CVX.N) said on Wednesday they have acquired Argentina-based agricultural product company Chacraservicios, as the companies look to expand their renewable energy footprint.\n\n Expanding production of renewable diesel depends on increasing the supply of oils made from crops.",
+            "source_name": "Reuters",
+            "url": "https://www.reuters.com/markets/deals/bunge-chevron-acquire-argentinas-chacraservicios-meet-renewable-diesel-demand-2023-07-05/",
+            "date": "2023-07-05 17:27:29+00:00"
+        },
+        {
+            "title": "Chevron (CVX) Adds Texas Hub to Its Carbon Capture Project",
+            "summary": "Some better-ranked stocks for investors interested in the energy space include CVR Energy CVI, sporting a Zacks Rank #1, and Murphy USA Inc. MUSA carrying a Zacks Rank #2 (Buy).\n   Free Stock Analysis Report\n  CVR Energy Inc. (CVI) : The hub is positioned to be a leading carbon transportation and storage solution, given the total acreage's gross storage capacity of more than 1 billion metric tons.\n  Until 2028, Chevron will invest $10 billion in its low-carbon initiatives, including CCUS and hydrogen fuel. Free Stock Analysis Report\n  Talos Energy Inc. (TALO) :",
+            "source_name": "Yahoo! Finance News",
+            "url": "https://finance.yahoo.com/news/chevron-cvx-adds-texas-hub-150003081.html",
+            "date": "2023-03-08 18:15:17+00:00"
+        },
+        {
+            "title": "Chevron Division Invests in Carbon Capture and Removal Tech Company Svante",
+            "summary": "By Kathryn Hardison  Chevron Corp. said Thursday that one of its divisions is the lead investor in the latest funding round for Svante, a carbon capture and removal technology company.\n  Chevron New Energies, a division of Chevron U.S.A. Inc., invested in the round, which raised $318 million that will be used to accelerate the manufacturing of...",
+            "source_name": "Market Watch",
+            "url": "https://www.marketwatch.com/story/chevron-division-invests-in-carbon-capture-and-removal-tech-company-svante-271671141004",
+            "date": "2022-12-15 21:56:48+00:00"
+        }
+    ]
+}

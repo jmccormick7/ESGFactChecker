@@ -1,0 +1,179 @@
+{
+    "articles": [
+        {
+            "title": "BP says its carbon sequestration plans are safe, but concerned Hoosiers aren't so sure",
+            "summary": "A Thursday presentation by BP on a proposed Indiana carbon dioxide capture and sequestration project in Indiana elicited a skeptical response from those in attendance. The rock deposits under Lake County don't meet the criteria, BP representatives said, so carbon dioxide produced by industrial sites in the area would need to be piped south to more suitable injection sites in other Indiana counties. Project manager Ed Shahady told the Post-Tribune that BP is targeting 40 million tons of carbon emitted annually by industrial sites in Northwest Indiana.\n   BP plans to capture carbon dioxide emitted by industrial sites before piping it in a liquid state to injection sites for underground storage. The process requires rock deposits that are porous enough to allow carbon dioxide to spread out from the injection site and deep enough to prevent it from seeping upwards into the groundwater supply.",
+            "source_name": "Yahoo! Finance News",
+            "url": "https://finance.yahoo.com/news/bp-says-carbon-sequestration-plans-150000675.html",
+            "date": "2023-09-16 15:21:16+00:00"
+        },
+        {
+            "title": "BP to cut back on renewable efforts after disappointment with green push",
+            "summary": "Bernard Looney, chief executive officer of BP Plc, gestures while speaking during a news conference in London, U.K., on Wednesday, Feb. 12, 2020. Within one week of starting the job three years ago, he set out plans to reinvent the oil giant\u2019s as one of the world\u2019s biggest providers of green energy and set a target for BP to reach \u201cnet zero\u201d carbon emissions by 2050.\n\n \n\nEven a partial reversal on BP\u2019s push into renewable energy would mark a significant change in tone from Mr Looney.\n\n The chief executive of BP plans to \u201cdial back\u201d a push into renewable energy after disappointment with the financial returns it has so far generated, according to reports.\n\n BP Plc's new boss set out the boldest climate plan of any major oil company, pledging to eliminate almost all of the carbon emissions from its operations and the fuel it sells to customers.",
+            "source_name": "Yahoo",
+            "url": "https://news.yahoo.com/bp-cut-back-renewable-efforts-133044678.html",
+            "date": "2023-02-01 13:55:25+00:00"
+        },
+        {
+            "title": "BP to cut back on renewable efforts after disappointment with green push",
+            "summary": "he chief executive of BP plans to\u201c dial back\u201d a push into renewable energy after disappointment with the financial returns it has so far generated, according to reports.",
+            "source_name": "MSN UK",
+            "url": "https://www.msn.com/en-gb/money/other/bp-to-cut-back-on-renewable-efforts-after-disappointment-with-green-push/ar-AA16Zk6h?ocid=finance-verthp-feeds",
+            "date": "2023-02-01 15:29:16+00:00"
+        },
+        {
+            "title": "BP spends $23 million on WA agricultural property for green hydrogen, renewable plans",
+            "summary": "Global energy companies are continuing to eye off agriculture land in regional Western Australia for renewable energy developments, with BP and Samsung the latest to snap up holdings.\n\n Key points: A Mid West agricultural property will be used to house wind and solar generation assets\n\nA Mid West agricultural property will be used to house wind and solar generation assets BP plans to create 10 gigawatts of renewable energy capacity across 100 hectares\n\nBP plans to create 10 gigawatts of renewable energy capacity across 100 hectares The land has been leased to neighbouring farming business that will continue to grow crops\n\nBP has secured Daisy Downs, a 27-hectare cropping property north of Mullewa, for $23 million, saying it plans to incorporate significant green energy generation alongside the existing agricultural business.\n\n Daisy Downs is expected to make up roughly a quarter of the land needed for BP to create 10 gigawatts of renewable energy capacity it will convert to hydrogen and ammonia for export from the WA government's planned green energy hub at Oakajee.\n\n BP is one of six companies allocated land in the planned Mid West Hydrogen Hub located at Oakajee, 120 kilometres west of Daisy Downs.\n\n BP spokesman James Foley said the property would house wind and solar energy generation assets.",
+            "source_name": "ABC News Australia",
+            "url": "https://www.abc.net.au/news/2023-05-18/bp-purchases-daisy-downs-23-million-green-energy-expansion-wa/102362672",
+            "date": "2023-05-18 05:46:19+00:00"
+        },
+        {
+            "title": "Green campaigners accuse BP boss Bernard Looney of rolling back climate promises",
+            "summary": "P boss Bernard Looney has been accused of caving in to pressure as the man who took the reins with green promises watered down his emissions targets.",
+            "source_name": "MSN UK",
+            "url": "https://www.msn.com/en-gb/money/other/green-campaigners-accuse-bp-boss-bernard-looney-of-rolling-back-climate-promises/ar-AA17cA2g",
+            "date": "2023-02-07 13:38:28+00:00"
+        },
+        {
+            "title": "Green campaigners accuse BP boss Bernard Looney of rolling back climate promises",
+            "summary": "OPENHAGEN- The Danish Energy Agency has suspended reviewing existing and new applications to install new wind farms and other renewable energy projects in the country over a potential conflict with European Union law, it said in a statement late on Monday.",
+            "source_name": "MSN UK",
+            "url": "https://www.msn.com/en-gb/money/other/green-campaigners-accuse-bp-boss-bernard-looney-of-rolling-back-climate-promises/ar-AA17csnC?ocid=finance-verthp-feeds",
+            "date": "2023-02-07 15:08:20+00:00"
+        },
+        {
+            "title": "BP's CEO Plays Down Renewables Push",
+            "summary": "LONDON\u2014 BP PLC Chief Executive Bernard Looney plans to dial back elements of the oil giant\u2019s high-profile push into renewable energy, he has said in recent discussions with people close to the company.\n\n Mr. Looney has said he is disappointed in the returns from some of the oil giant\u2019s renewable investments and plans to pursue a narrower green-energy strategy, according to people familiar with the discussions. He has told some of the people that BP needs to do more to convince shareholders of its strategy to maximize profit in areas where it has a competitive advantage, including its legacy oil-and-gas operations.",
+            "source_name": "Wall Street Journal",
+            "url": "https://www.wsj.com/articles/bps-ceo-plays-down-renewables-push-11675249471",
+            "date": "2023-02-01 12:16:23+00:00"
+        },
+        {
+            "title": "BP Pivots On Climate Promises",
+            "summary": "BP has revelled in record gas prices and a robust performance across oil markets\n  This follows a historic year of trading for the energy giant , which announced record profits powered by soaring oil and gas prices following the pandemic and Russia's invasion of Ukraine.\n   BP's earnings for the full year than doubled to \u00a323bn ($27.7bn) in 2022 in line with record gas prices and 14-year peaks in the cost of oil.\n   The fossil fuel titan's bumper profits were powered by another quarter of booming trading, with BP capping off the year with a three-month earnings window of just under \u00a39bn ($10.8bn)\n   It follows Shell's bumper \u00a332.2bn ($39.9bn) profits for the full-year , alongside massive earnings reported by energy giants operating Stateside such as Chevron and Exxon Mobil\n  Total and Equinor are expected to unveil their own results tomorrow, with Aramco scheduled for next month.",
+            "source_name": "Yahoo! Finance News",
+            "url": "https://finance.yahoo.com/news/bp-pivots-climate-promises-160000423.html",
+            "date": "2023-02-07 19:46:24+00:00"
+        },
+        {
+            "title": "Change to BP climate goal a concern for...",
+            "summary": "By Ron Bousso, Simon Jessop and Shadia Nasralla\n\nLONDON, Feb 10 (Reuters) - Activist group Follow This in December co-filed a resolution with six institutional investors managing $1.3 trillion in assets ahead of BP's shareholder meeting in calling on the company to set broad emission reduction targets for 2030.\n\n A member of a major climate-focused investor group leading engagement with BP has voiced concern the company may stray from commitments to cut greenhouse gas emissions after its CEO this week rowed back on plans to cut oil and gas output.\n\n Chief Executive Bernard Looney's strategy revision on Tuesday, which also included a cut to BP's 2030 emissions reduction target, came three years after he took the helm with a vow to re-invent the oil and gas company.\n\n \"In the context of a very strong financial outcome, those investors with net-zero goals, including many of our clients, will be concerned at such a material change to BP's 2030 absolute emissions reduction target,\" Duguid said in a statement to Reuters.",
+            "source_name": "Daily Mail UK",
+            "url": "https://www.dailymail.co.uk/wires/reuters/article-11736471/Change-BP-climate-goal-concern-emissions-focused-investors--shareholder.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+            "date": "2023-02-10 14:18:54+00:00"
+        },
+        {
+            "title": "BP commits to Germany with $11 billion low-carbon...",
+            "summary": "BP aims to rapidly grow EV charging network by 2030\n\n*\n\nAims to decarbonize refineries, build hydrogen hub\n\n*\n\n10 billion euro investment challenges rival utilities\n\nBy Christoph Steitz and Ron Bousso\n\nFRANKFURT/LONDON, Sept 13 (Reuters) - BP plans to invest up to 10 billion euros ($10.7 billion) in low-carbon fuels, renewables and EV charging in Germany by the end of the decade to rival local power firms, as competition over the energy transition of Europe's largest economy intensifies.\n\n \"We are talking about refineries, we are talking about the largest petrol station network in Germany, we are talking about existing business relationships, about strong brands,\" Patrick Wendeler, who chairs the board of BP Europe, told Reuters.\n\n \"\n\nThe 10 billion euros are new investments, which however include a 678 million euro payment BP has to make after being awarded in July two licences in Germany's recent offshore wind auction.\n\n BP's award in Germany's offshore wind tender along with TotalEnergies made headlines, as the oil majors beat out incumbents such as RWE and Orsted.\n\n At the heart of the German investment push are plans to expand BP's local network of electric vehicle (EV) fast chargers, decarbonise its refineries, and develop wind power.",
+            "source_name": "Daily Mail UK",
+            "url": "https://www.dailymail.co.uk/wires/reuters/article-12511885/BP-commits-Germany-11-billion-low-carbon-investment-push.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+            "date": "2023-09-13 04:09:24+00:00"
+        },
+        {
+            "title": "BP defeats climate change and chairman challenges",
+            "summary": "Proactive Investors - BP (LON: BP ) comfortably saw off a challenge to plans to water down its carbon reduction targets even though five pension funds voted against the changes. Dutch environmentalist group Follow This put forward the resolution, which called for BP to adopt more aggressive targets on scope 3 emissions generated from the use of its products such as car exhaust fumes. In February, after making huge profits from soaring oil and gas prices, BP announced that it was lowering a target of a reduction of 35-40% in its greenhouse gas emissions to 20-30% while upping its spending on fossil fuel projects.\n   Institutional voting advisers ISS and Glass Lewis had both recommended BP shareholders oppose Follow This's resolution.\n   Katharina Lindmeier, senior responsible investment manager at pension fund Nest, told the BBC: \"Not only were we disappointed to see the company going back on the targets, but we were also really surprised not to have had any consultation.",
+            "source_name": "Investing.com Uk",
+            "url": "https://uk.investing.com/news/stock-market-news/bp-defeats-climate-change-and-chairman-challenges-3000789",
+            "date": "2023-04-28 07:52:25+00:00"
+        },
+        {
+            "title": "BP invests in green hydrogen start-up",
+            "summary": "Proactive Investors - BP PLC (LON: BP ) has backed a start-up aiming to slash the costs of producing hydrogen by incorporating electrolysers into heavy industry. According to BP, Advanced Ionics' electrolyser could produce hydrogen at less than US$1 per kilogram \u2013 far below the usual US$3 to US$8, as per International Energy Agency data.\n   US-based Advanced Ionics develops electrolysers which can be fitted to heavy industrial processes, ultimately producing hydrogen from by-product steam.\n   \u201c[The] technology has the potential to drive down cost and disrupt the hydrogen market,\u201d BP Ventures vice president Gareth Burns said.\n   Given it takes less electricity to electrolyse water vapour than is needed for liquid, Advanced Ionics' system can reduce the power and also heating needed to produce hydrogen.",
+            "source_name": "Investing.com Uk",
+            "url": "https://uk.investing.com/news/stock-market-news/bp-invests-in-green-hydrogen-startup-3123892",
+            "date": "2023-08-15 10:45:04+00:00"
+        },
+        {
+            "title": "TotalEnergies Leads Shell, BP in Renewables Race, but Shares Sag",
+            "summary": "By Reuters| Nov. 7, 2022, at 1:13 a.m.",
+            "source_name": "U.S. News & World Report Online",
+            "url": "https://money.usnews.com/investing/news/articles/2022-11-07/totalenergies-leads-shell-bp-in-renewables-race-but-shares-sag",
+            "date": "2022-11-07 07:11:00+00:00"
+        },
+        {
+            "title": "TotalEnergies leads Shell, BP in renewables race, but shares sag",
+            "summary": "Summary  Companies  TotalEnergies has largest renewables operations  But European energy giants' shares trail U.S. rivals\n           LONDON, Nov 7 (Reuters) - Reuters Graphics  Latest Updates  Exxon faces $2 billion loss on sale of troubled California oil properties  Oil prices slide as hopes for China demand rebound fade  External power restored to Ukraine's Zaporizhzhia nuclear plant, IAEA says  Canada's share buyback tax could backfire, energy sector warns  TotalEnergies had a portfolio of 7.4 gigawatts (GW) of net installed renewables capacity by the end of September, according to company data, following investments such as a $2 billion partnership with India's Adani Group last year and the acquisition of a 50% stake in Clearway, one of the largest U.S. renewables firms.   French energy giant TotalEnergies (TTEF.PA) has pulled ahead of rivals Shell (SHEL.L) and BP in the race to build up a renewables business, data collected by Reuters shows.   Reuters Graphics  Investors have yet to be swayed by the growing investments in renewables and credit rating agency Moody's also sounded a cautious note, saying that the shift would bring the companies into direct competition with utilities for projects that generate lower returns that traditional oil and gas investments.   BP, Shell and TotalEnergies have all set out ambitious plans to shift towards low-carbon and renewable energies in the coming decades in an effort to slash greenhouse emissions to net zero.",
+            "source_name": "Reuters",
+            "url": "https://www.reuters.com/business/energy/totalenergies-leads-shell-bp-renewables-race-shares-sag-2022-11-07/",
+            "date": "2022-11-07 06:22:10+00:00"
+        },
+        {
+            "title": "Mauritania and BP to explore green hydrogen projects",
+            "summary": "The memorandum of understanding, which does not include a time frame or targets for the project, aims to build on BP's presence in a country where it is already developing a large liquefied natural gas (LNG) facility.\n The memorandum of understanding, which does not include a time frame or targets for the project, aims to build on BP's presence in a country where it is already developing a large liquefied natural gas (LNG) facility.   LONDON: BP has signed an agreement with Mauritania to explore ways to develop low-carbon hydrogen on a large scale in the West African country, the British energy company said on Tuesday.   BP is aiming for a sharp increase to hydrogen production under Looney 's plan to shift the company away from oil and gas in the coming decades. Under the plan, BP will initially study the feasibility of building onshore wind and solar farms that are required for production of green hydrogen, which is produced by electrolysis using renewable energy.",
+            "source_name": "Energy Economictimes",
+            "url": "https://energy.economictimes.indiatimes.com/news/renewable/mauritania-and-bp-to-explore-green-hydrogen-projects/95389377",
+            "date": "2022-11-09 06:15:07+00:00"
+        },
+        {
+            "title": "BP climate shareholder resolution wins 16.75% support",
+            "summary": "LONDON (Reuters) -A shareholder resolution urging BP to set tougher climate targets was rejected by investors on Thursday, although it enjoyed more support than a year earlier after the energy company rowed back on plans to cut oil and gas output.\n\n Speaking at the AGM, van Baal said Looney was \u201cmisleading shareholders\u201d by claiming that BP\u2019s strategy was aligned with U.N.-backed targets set in a Paris conference in 2015 to slash global emissions by the end of the century.\n\n BP Chief Executive Bernard Looney in February rowed back on plans to slash oil and gas output and carbon emissions, angering climate activists but spurring a share price surge.\n\n \u201cIt\u2019s a very strong signal because if you look at all the other resolutions it\u2019s just a few percent that don\u2019t vote with management,\u201d van Baal told Reuters after the annual general meeting.\n\n REUTERS/Kacper Pempel/File Photo\n\nThe resolution filed by activist group Follow This, which the board urged voters to oppose, won the support of 16.75% of votes at the annual general meeting in London, according to preliminary results.",
+            "source_name": "Reuters",
+            "url": "https://www.reuters.com/article/bp-agm-climate-change/update-1-bp-climate-shareholder-resolution-wins-16-75-support-idUSL1N36U24O",
+            "date": "2023-04-27 16:00:41+00:00"
+        },
+        {
+            "title": "Mauritania and BP to explore green hydrogen projects",
+            "summary": "LONDON, Nov 8 (Reuters) - BP (BP.L) has signed an agreement with Mauritania to explore ways to develop low-carbon hydrogen on a large scale in the West African country, the British energy company said on Tuesday.   Under the plan, BP will initially study the feasibility of building onshore wind and solar farms that are required for production of green hydrogen, which is produced by electrolysis using renewable energy.   BP is aiming for a sharp increase to hydrogen production under Looney's plan to shift the company away from oil and gas in the coming decades.   \"This is really the first phase of what we expect to be a pretty long-term development programme in Mauritania,\" BP's head of hydrogen, Felipe Arbelaez, told Reuters.   The agreement was signed by Mauritania's President Mohamed Ould Ghazouani and BP Chief Executive Bernard Looney on the sidelines of the COP27 climate talks in the Egyptian coastal resort town of Sharm el-Sheikh.",
+            "source_name": "Reuters",
+            "url": "https://www.reuters.com/article/climate-un-mauritania-bp/update-1-mauritania-and-bp-to-explore-green-hydrogen-projects-idUSL1N3241W2",
+            "date": "2022-11-08 20:55:05+00:00"
+        },
+        {
+            "title": "Mauritania and BP to explore green hydrogen projects",
+            "summary": "In this article:  BP  LONDON (Reuters) -BP has signed an agreement with Mauritania to explore ways to develop low-carbon hydrogen on\na large scale in the West African country, the British energy company said on Tuesday.   Under the plan, BP will initially study the feasibility of building onshore wind and solar farms that are required for production of green hydrogen, which is produced by electrolysis using renewable energy.   BP is aiming for a sharp increase to hydrogen production under Looney's plan to shift the company away from oil and gas in the coming decades.   \"This is really the first phase of what we expect to be a pretty long-term development programme in Mauritania,\" BP's head of hydrogen, Felipe Arbelaez, told Reuters.   The memorandum of understanding, which does not include a time frame or targets for the project, aims to build on BP's presence in a country where it is already developing a large liquefied natural gas (LNG) facility.",
+            "source_name": "Yahoo UK",
+            "url": "https://uk.finance.yahoo.com/news/mauritania-bp-explore-green-hydrogen-100623860.html",
+            "date": "2022-11-09 00:27:02+00:00"
+        },
+        {
+            "title": "PIRC recommends vote for BP climate activist resolution",
+            "summary": "Companies Bp Plc Follow\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLONDON, April 24 (Reuters) - Major investor advisers ISS and Glass Lewis have recommended BP shareholders oppose the climate resolution filed by activist group Follow This.\n\n Investor advisory firm PIRC on Monday recommended that BP (BP.L) shareholders vote against the company's chair over climate concerns and in favour of a climate activist resolution at the energy group's annual general meeting on Thursday.\n\n Norway's $1.4 trillion sovereign wealth fund, one of the world's largest investors and itself built on oil and gas revenue, said on Saturday it would vote against the Follow This resolution.\n\n In February BP rowed back on plans to slash its 2019 oil and gas output levels by 40% by 2030, and now it envisages a 25% cut, angering climate activists but seeing its share price surge.",
+            "source_name": "Reuters",
+            "url": "https://www.reuters.com/business/energy/pirc-recommends-vote-bp-climate-activist-resolution-2023-04-24/",
+            "date": "2023-04-24 08:56:29+00:00"
+        },
+        {
+            "title": "PIRC recommends vote for BP climate activist resolution",
+            "summary": "LONDON (Reuters) - Investor advisory firm PIRC on Monday recommended that BP shareholders vote against the company's chair over climate concerns and in favour of a climate activist resolution at the energy group's annual general meeting on Thursday.\n\n Logo of British Petrol BP is seen e at petrol station in Pienkow\n\nMajor investor advisers ISS and Glass Lewis have recommended BP shareholders oppose the climate resolution filed by activist group Follow This.\n\n In February BP rowed back on plans to slash its 2019 oil and gas output levels by 40% by 2030, and now it envisages a 25% cut, angering climate activists but seeing its share price surge.\n\n(Reporting by Shadia Nasralla; Editing by David Goodman and Louise Heavens) Norway's $1.4 trillion sovereign wealth fund, one of the world's largest investors and itself built on oil and gas revenue, said on Saturday it would vote against the Follow This resolution.\n\n \u00a9 Thomson Reuters FILE PHOTO:",
+            "source_name": "MSN UK",
+            "url": "https://www.msn.com/en-gb/money/other/pirc-recommends-vote-for-bp-climate-activist-resolution/ar-AA1afxvY?ocid=finance-verthp-feeds",
+            "date": "2023-04-24 10:25:39+00:00"
+        },
+        {
+            "title": "Climate protesters disrupt BP\u2019s shareholder meeting in London",
+            "summary": "Climate protesters have disrupted BP\u2019s annual general meeting where the oil company was braced for a growing green revolt from shareholders over its decision to water down its climate commitments. But the company reset the target to 25% by 2030 after reporting the highest profits of BP\u2019s 114-year history thanks to soaring oil and gas prices linked to the Ukraine war.\n\nskip past newsletter promotion Sign up to Business Today Free daily newsletter Get set for the working day \u2013 we'll point you to all the business news and analysis you need every morning Privacy Notice: Newsletters may contain info about charities, online ads, and content funded by outside parties. BP won cautious praise from climate campaigners in 2020 after setting out a \u201cnet zero carbon\u201d plan that included a goal to cut the company\u2019s oil and gas production by 40% compared with 2019 by the end of the decade. Stop your lies.\u201d\n\nThe protesters were warned by BP company secretary, Ben Mathews, to wait until the question and answer segment of the meeting, or risk being removed by security. At least four protesters were forcibly removed from inside the shareholder meeting within 10 minutes of BP chair, Helge Lund, beginning his opening remarks.",
+            "source_name": "The Guardian",
+            "url": "https://www.theguardian.com/business/2023/apr/27/climate-protesters-disrupt-bp-shareholder-meeting-in-london",
+            "date": "2023-04-27 15:31:29+00:00"
+        },
+        {
+            "title": "BP faces angry shareholders over climate plans",
+            "summary": "Some of Britain's biggest pension funds have warned that they will oppose the renewal of Helge Lund's mandate at the annual general meeting in London.\n London : Energy giant BP on Thursday faces a shareholder revolt over its decision to slow its energy transition, with activist investors promising to block the re-election of the head of the board of directors.\n  Some of Britain's biggest pension funds have warned that they will oppose the renewal of Helge Lund's mandate at the annual general meeting in London.\n  BP in February announced that it expected to boost its profits between now and 2030 by investing more in both renewable energy and hydrocarbons, slowing the pace of its transition. Activist shareholders' group Follow This, which wants \"Big Oil to go green\", has also put forward a resolution calling for BP to be more ambitious in its climate objectives.",
+            "source_name": "Energy Economictimes",
+            "url": "https://energy.economictimes.indiatimes.com/news/oil-and-gas/bp-faces-angry-shareholders-over-climate-plans/99807190",
+            "date": "2023-04-27 07:05:55+00:00"
+        },
+        {
+            "title": "BP climate shareholder resolution wins 16.75% support",
+            "summary": "Companies Bp Plc Follow\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLONDON, April 27 (Reuters) - A shareholder resolution calling on BP (BP.L) to set tougher carbon emission reduction targets won the support of 16.75% of votes at the energy company's annual general meeting, according to preliminary results.\n\n The resolution filed by activist group Follow This called on BP to commit to absolute carbon emissions cuts by 2030 in line with the Paris climate deal.\n\n Shareholders also approved the re-appointment of Chairman Helge Lund by a majority of 90.43% after several investors called on shareholders to oppose it to protest BP's energy transition strategy.\n\n Support for the resolution rose from 14.9% last year but was below the 20.6% received in 2021.",
+            "source_name": "Reuters",
+            "url": "https://www.reuters.com/business/energy/bp-climate-shareholder-resolution-wins-1675-support-2023-04-27/",
+            "date": "2023-04-27 15:46:38+00:00"
+        },
+        {
+            "title": "PIRC recommends vote for BP climate activist resolution",
+            "summary": "LONDON, April 24 (Reuters) - Investor advisory firm PIRC on Monday recommended that BP shareholders vote against the company's chair over climate concerns and in favour of a climate activist resolution at the energy group's annual general meeting on Thursday.",
+            "source_name": "Yahoo! Finance News",
+            "url": "https://finance.yahoo.com/news/pirc-recommends-vote-bp-climate-081800055.html",
+            "date": "2023-04-24 08:36:24+00:00"
+        },
+        {
+            "title": "Mauritania and BP to explore green hydrogen projects",
+            "summary": "LONDON, Nov 8 (Reuters) - BP (BP.L) has signed an agreement with Mauritania to explore ways to develop low-carbon hydrogen on a large scale in the West African country, the British energy company said on Tuesday.   \"This is really the first phase of what we expect to be a pretty long-term development programme in Mauritania,\" BP's head of hydrogen, Felipe Arbelaez, told Reuters.   BP is aiming for a sharp increase to hydrogen production under Looney's plan to shift the company away from oil and gas in the coming decades.   Under the plan, BP will initially study the feasibility of building onshore wind and solar farms that are required for production of green hydrogen, which is produced by electrolysis using renewable energy.   Latest Updates  COP 27 Developing countries need $1 trillion a year in climate finance -report  COP27: Small island nations want Big Oil to pay up for climate damage  At COP27, climate change framed as battle for survival  COP27 Countries band together to keep forest promise  COP27: What they are saying at the climate summit  The MoU was signed by Mauritania's president Mohamed Ould Ghazouani and BP Chief Executive Bernard Looney on the sidelines of the COP27 climate talks in the Egyptian coastal resort town of Sharm el-Sheikh.",
+            "source_name": "Reuters",
+            "url": "https://www.reuters.com/business/cop/mauritania-bp-explore-green-hydrogen-projects-2022-11-08/",
+            "date": "2022-11-08 10:25:29+00:00"
+        }
+    ]
+}

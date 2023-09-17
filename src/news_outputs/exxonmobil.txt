@@ -1,0 +1,179 @@
+{
+    "articles": [
+        {
+            "title": "New files shed light on ExxonMobil\u2019s efforts to undermine climate science",
+            "summary": "ExxonMobil executives privately sought to undermine climate science even after the oil and gas giant publicly acknowledged the link between fossil fuel emissions and climate change, according to previously unreported documents revealed by the Wall Street Journal.\n\n After the Intergovernmental Panel on Climate Change, the United Nations\u2019 top climate body, sounded the alarm about the urgent need to curb greenhouse-gas emissions in 2011, Tillerson told a leading Exxon researcher that the IPCC\u2019s warning was \u201cnot credible\u201d, and said he was \u201cdissatisfied\u201d with the media\u2019s coverage of the warning about the worst-case climate scenarios.\n\n During a board meeting about climate science and policy that same year, the Exxon board member Peter Brabeck-Letmathe, who is the former chief executive of Nestl\u00e9, said there was \u201cstill uncertainty in predicting future climate changes and impacts\u201d and also said that \u201cmoney and effort spent on climate change is misplaced\u201d.\n\n Many of the newly released documents date back to the 2006-16 tenure of former chief executive Rex Tillerson, who oversaw a major shift in the company\u2019s climate messaging. The documents could bolster legal efforts to hold oil companies accountable for their alleged attempts to sow doubt about climate science.",
+            "source_name": "The Guardian",
+            "url": "https://www.theguardian.com/us-news/2023/sep/14/exxonmobil-documents-wall-street-journal-climate-science",
+            "date": "2023-09-14 18:15:19+00:00"
+        },
+        {
+            "title": "ExxonMobil to Host Low Carbon Solutions Spotlight",
+            "summary": "The MarketWatch News Department was not involved in the creation of this content.\n\n On April 4, 2023, Exxon Mobil Corporation will host a virtual Low Carbon Solutions spotlight to provide an update on the business.\n\n Darren Woods, Chairman and Chief Executive Officer, Kathy Mikells, Senior Vice President and Chief Financial Officer, Dan Ammann, President of Low Carbon Solutions, and Jennifer Driscoll, Vice President of Investor Relations will share how ExxonMobil\u2019s Low Carbon Solutions business is working to profitably grow a compelling new business to accelerate the path to a lower-emission future. The MarketWatch News Department was not involved in the creation of this content.",
+            "source_name": "Market Watch",
+            "url": "https://www.marketwatch.com/press-release/exxonmobil-to-host-low-carbon-solutions-spotlight-2023-02-21",
+            "date": "2023-05-09 07:25:12+00:00"
+        },
+        {
+            "title": "ExxonMobil to Host Low Carbon Solutions Spotlight",
+            "summary": "En este art\u00edculo:  XOM  IRVING, Texas, February 21, 2023 BUSINESS WIRE )--On April 4, 2023, Exxon Mobil Corporation will host a virtual Low Carbon Solutions spotlight to provide an update on the business.\n  Darren Woods, Chairman and Chief Executive Officer, Kathy Mikells, Senior Vice President and Chief Financial Officer, Dan Ammann, President of Low Carbon Solutions, and Jennifer Driscoll, Vice President of Investor Relations will share how ExxonMobil's Low Carbon Solutions business is working to profitably grow a compelling new business to accelerate the path to a lower-emission future. The spotlight will include a Q&A session during the live webcast beginning at 9:00 a.m.",
+            "source_name": "Yahoo! Finanzas Espana (Spanish)",
+            "url": "https://es.finance.yahoo.com/news/exxonmobil-host-low-carbon-solutions-133000452.html",
+            "date": "2023-02-21 14:50:55+00:00"
+        },
+        {
+            "title": "ExxonMobil to Host Low Carbon Solutions Spotlight",
+            "summary": "April 4, 2023, Exxon Mobil\nCorporation will host a virtual Low Carbon Solutions spotlight to provide an update on the business.\n   Darren Woods, Chairman and Chief Executive Officer, Kathy Mikells, Senior Vice President and Chief Financial Officer, Dan Ammann, President of Low Carbon Solutions, and Jennifer Driscoll, Vice President of Investor Relations will share how ExxonMobil's Low Carbon Solutions business is working to profitably grow a compelling new business to accelerate the path to a lower-emission future. The spotlight will include a Q&A session during the live webcast beginning at 9:00 a.m.",
+            "source_name": "Yahoo! Finance News",
+            "url": "https://finance.yahoo.com/news/exxonmobil-host-low-carbon-solutions-133000452.html",
+            "date": "2023-02-21 14:22:20+00:00"
+        },
+        {
+            "title": "New files shed light on ExxonMobil\u2019s efforts to undermine climate science - The Guardian US",
+            "summary": "",
+            "source_name": "Google News",
+            "url": "https://news.google.com/rss/articles/CBMiaGh0dHBzOi8vd3d3LnRoZWd1YXJkaWFuLmNvbS91cy1uZXdzLzIwMjMvc2VwLzE0L2V4eG9ubW9iaWwtZG9jdW1lbnRzLXdhbGwtc3RyZWV0LWpvdXJuYWwtY2xpbWF0ZS1zY2llbmNl0gFoaHR0cHM6Ly9hbXAudGhlZ3VhcmRpYW4uY29tL3VzLW5ld3MvMjAyMy9zZXAvMTQvZXh4b25tb2JpbC1kb2N1bWVudHMtd2FsbC1zdHJlZXQtam91cm5hbC1jbGltYXRlLXNjaWVuY2U?oc=5",
+            "date": "2023-09-14 21:07:27+00:00"
+        },
+        {
+            "title": "ExxonMobil Signs Deal to Capture Carbon From Nucor's Plant",
+            "summary": "In this article:  NUE \n Exxon Mobil Corporation XOM entered an agreement with steel producer Nucor Corporation NUE to capture, transport and store carbon dioxide (CO ) from the latter's direct reduce iron (\u201cDRI\u201d) facility in Louisiana.\n   Nucor is one of the first steel companies to disclose its Scope 3 emission-reduction goals. Oil and gas companies are getting actively involved in CCS projects, as it offers a transition pathway for the rapid and effective reduction of CO emissions beyond what can be achieved by alternative methods like electrification and renewable fuels. The agreement improves Nucor's position as a sustainability leader, and builds on its plan to produce steel and steel products with low embodied carbon.",
+            "source_name": "Yahoo! Finance News",
+            "url": "https://finance.yahoo.com/news/exxonmobil-signs-deal-capture-carbon-145300612.html",
+            "date": "2023-06-02 19:01:04+00:00"
+        },
+        {
+            "title": "FuelCell Energy and ExxonMobil Continue Carbon Capture Technology Development Project",
+            "summary": "FuelCell Energy, Inc.\n\nTechnical progress continues towards commercialization of carbonate fuel cell technology for carbon capture\n\nDANBURY, Conn., Aug. 28, 2023 (GLOBE NEWSWIRE) -- The extension enables further development related to manufacturing scale-up and work towards advancing the carbonate fuel cell technology for point source carbon capture applications against a broader set of carbon capture opportunities including lower carbon intensity flue streams. As a leading global manufacturer of proprietary fuel cell technology platforms, FuelCell Energy is uniquely positioned to serve customers worldwide with sustainable products and solutions for businesses, utilities, governments and municipalities. Jason Few, CEO and president of FuelCell Energy commented, \u201cWe are extremely pleased that our jointly-developed carbon capture technology has been found to be feasible for the commercial usage we are targeting and look forward to working with ExxonMobil towards a potential demonstration project.\u201d\n\n The forward-looking statements include, without limitation, the Company\u2019s plans and expectations regarding the continuing development and commercialization of its carbon capture technology.",
+            "source_name": "Yahoo! Finance News",
+            "url": "https://finance.yahoo.com/news/fuelcell-energy-exxonmobil-continue-carbon-120000899.html",
+            "date": "2023-08-28 12:15:07+00:00"
+        },
+        {
+            "title": "ExxonMobil predicted the climate crisis in 1970, leaks show",
+            "summary": "2 of 18 Photos in Gallery The investigation, published in Science, follows previews of 2015 journalistic revelations of similar documents and could fuel several ongoing lawsuits against the company.\n The previous leak showed that the oil giant built research teams with top scientists that associated burning fossil fuels with global warming but chose to ignore the result of their investigation.\n   The previous leak showed that the oil giant built research teams with top scientists that associated burning fossil fuels with global warming but chose to ignore the result of their investigation.\n   A new leak, but not the first\n  The investigation, published in Science, follows previews of 2015 journalistic revelations of similar documents and could fuel several ongoing lawsuits against the company.",
+            "source_name": "MSN South Africa",
+            "url": "https://www.msn.com/en-za/cars/news/exxonmobil-predicted-the-climate-crisis-in-1970-leaks-show/ss-AA16tv3B",
+            "date": "2023-01-18 14:44:01+00:00"
+        },
+        {
+            "title": "Keppel, ExxonMobil to explore low-carbon ammonia solutions for Singapore",
+            "summary": "April 20 (Reuters) - Keppel Infrastructure and U.S. oil producer ExxonMobil signed a memorandum of understanding to develop low-carbon hydrogen and ammonia solutions for use in Singapore, the companies said in a joint statement on Thursday.",
+            "source_name": "Yahoo! Finance News",
+            "url": "https://finance.yahoo.com/news/keppel-exxonmobil-explore-low-carbon-235029845.html",
+            "date": "2023-04-20 00:04:45+00:00"
+        },
+        {
+            "title": "Keppel, ExxonMobil to explore low-carbon ammonia solutions for Singapore",
+            "summary": "April 20 (Reuters) - Keppel Infrastructure (KEPL.SI) and U.S. oil producer ExxonMobil (XOM.N) signed a memorandum of understanding (MOU) to develop low-carbon hydrogen and ammonia solutions for use in Singapore, the companies said in a joint statement on Thursday.\n\n The deal announced on Thursday has been signed through units of both the companies, and aims to use low-carbon hydrogen for a 600 megawatt (MW) Keppel Sakra Cogen plant in Jurong Island.\n\n The MOU comes as low-carbon energy demand surges in Singapore and globally, and follows the city-state government's hydrogen strategy launched in October last year.\n\n Singapore's National Hydrogen Strategy targets hydrogen to meet up to half of its power needs by 2050.\n\n Currently under construction, the plant is expected to operate with at least 30% hydrogen and would have the capability of shifting to run entirely on hydrogen.",
+            "source_name": "Reuters",
+            "url": "https://www.reuters.com/business/sustainable-business/keppel-exxonmobil-explore-low-carbon-ammonia-solutions-singapore-2023-04-20/",
+            "date": "2023-04-20 00:41:15+00:00"
+        },
+        {
+            "title": "ExxonMobil: Oil giant predicted climate change in 1970s - scientists",
+            "summary": "\"It really underscores the stark hypocrisy of ExxonMobil leadership, who knew that their own scientists were doing this very high quality modelling work and had access to that privileged information while telling the rest of us that climate models were bunk,\" Naomi Oreskes, professor of the history of science at Harvard University, told BBC News.",
+            "source_name": "BBC",
+            "url": "https://www.bbc.co.uk/news/science-environment-64241994?at_medium=RSS&at_campaign=KARANGA",
+            "date": "2023-01-12 19:16:51+00:00"
+        },
+        {
+            "title": "ExxonMobil: Oil giant predicted climate change in 1970s - scientists",
+            "summary": "Climate change is making extreme weather including flooding more likely, scientists say\n\nOne of the world's largest oil companies accurately forecast how climate change would cause global temperature to rise as long ago as the 1970s, researchers claim.\n\n A chart that researchers say compares ExxonMobil's predictions of temperature rise with actual temperature increase\n\n\"Their excellent climate modelling was at least comparable in performance to one of the most influential and well-regarded climate scientists of modern history,\" Prof Supran said, comparing ExxonMobil's work to Nasa's James Hansen who sounded the alarm on climate in 1988.\n\n \"It really underscores the stark hypocrisy of ExxonMobil leadership, who knew that their own scientists were doing this very high quality modelling work and had access to that privileged information while telling the rest of us that climate models were bunk,\" Naomi Oreskes, professor of the history of science at Harvard University, told BBC News.\n\n Prof Oreskes and Prof Supran carried out the research after journalists in 2015 uncovered evidence suggesting ExxonMobil's knew about climate change, but were accused by ExxonMobil of \"cherry-picking\" the truth.\n\n The research, published in the academic journal Science, also suggests that ExxonMobil had reasonable estimates for how emissions would need to be reduced in order to avoid the worst effects of climate change in a world warmed by 2C or more.",
+            "source_name": "Yahoo! NEWS Canada",
+            "url": "https://ca.news.yahoo.com/exxonmobil-oil-giant-predicted-climate-190036939.html",
+            "date": "2023-01-12 19:22:43+00:00"
+        },
+        {
+            "title": "Norway fund to back tougher climate targets at Chevron, ExxonMobil",
+            "summary": "[1/3] A general view of the Norwegian central bank, where Norway's sovereign wealth fund is situated, in Oslo, Norway, March 6, 2018. REUTERS/Gwladys Fouche/File Photo\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nOSLO, May 26 (Reuters) - Norway's $1.4 trillion wealth fund said on Friday it would vote for resolutions urging oil majors Chevron (CVX.N) and ExxonMobil (XOM.N) to adopt tougher greenhouse gas reduction targets.\n\n The fund would vote for shareholder proposals at both companies to adopt a medium-term Scope 3 greenhouse gas reduction target, against company management recommendations, it said on its website.\n\n The fund also said on Friday it would vote for proposals to recalculate the greenhouse gas emissions baseline to exclude emissions from material divestitures, at the companies' respective annual shareholder meetings, both on May 31.\n\n The fund, which invests the Norwegian state's revenues from oil and gas production, said last year it would take a tougher line on companies that do not adopt credible climate plans.",
+            "source_name": "Reuters",
+            "url": "https://www.reuters.com/article/norway-swf-chevron-exxon-mobil/norway-fund-to-back-tougher-climate-targets-at-chevron-exxonmobil-idUSKBN2XH0GX",
+            "date": "2023-05-26 09:10:10+00:00"
+        },
+        {
+            "title": "Norway fund to back tougher climate targets at Chevron, ExxonMobil",
+            "summary": "OSLO (Reuters) - Norway's $1.4 trillion wealth fund said on Friday it would vote for resolutions urging oil majors Chevron and ExxonMobil to adopt tougher greenhouse gas reduction targets.\n  The fund would vote for shareholder proposals at both companies to adopt a medium-term Scope 3 greenhouse gas reduction target, against company management recommendations, it said on its website.\n   The fund also said on Friday it would vote for proposals to recalculate the greenhouse gas emissions baseline to exclude emissions from material divestitures, at the companies' respective annual shareholder meetings, both on May 31.\n   The fund, which invests the Norwegian state's revenues from oil and gas production, said last year it would take a tougher line on companies that do not adopt credible climate plans.\n   Finally, the fund objected to Chevron CEO Mike K. Wirth and ExxonMobil CEO Darren W. Woods also chairing the companies' boards, saying the same individual should not be both chief executive and chair.",
+            "source_name": "Reuters",
+            "url": "https://www.reuters.com/article/norway-swf-chevron-exxon-mobil/update-2-norway-fund-to-back-tougher-climate-targets-at-chevron-exxonmobil-idUSL8N37N1F0",
+            "date": "2023-05-26 10:23:21+00:00"
+        },
+        {
+            "title": "Nucor Enters Into Carbon Capture &amp; Storage Agreement with ExxonMobil",
+            "summary": "June 1, 2023 /PRNewswire/ -- Nucor Corporation (NYSE: NUE) announced today that it has signed an agreement with ExxonMobil to capture, transport, and store carbon from the company's direct reduced iron (DRI) plant in Convent, Louisiana . ExxonMobil will capture up to 800,000 metric tons per year of CO2 from the DRI plant and store the CO2 at an ExxonMobil-owned facility in Louisiana\n  \"This transformative CCS project with ExxonMobil is a key part of our decarbonization strategy and will result in some of the lowest embodied carbon DRI or HBI in North America ,\" said Leon Topalian , Chair, President and Chief Executive Officer of Nucor Corporation. This carbon capture and storage agreement with ExxonMobil furthers Nucor's status as a sustainability leader and builds on the innovation that has enabled the company to produce steel and steel products with low embodied carbon. The circular nature of remelting recycled scrap in electric arc furnaces means that Nucor's steel mills generate roughly two-thirds less than the carbon dioxide of extractive blast furnace steelmaking plants, even when accounting for Scope 3 emissions, which include all upstream and downstream emissions in the supply chain.",
+            "source_name": "Yahoo! Finance News",
+            "url": "https://finance.yahoo.com/news/nucor-enters-carbon-capture-storage-120000231.html",
+            "date": "2023-06-01 13:46:59+00:00"
+        },
+        {
+            "title": "ExxonMobil accurately predicted\u00a0climate change\u00a0while publicly dismissing it",
+            "summary": "ExxonMobil predicted rising global temperatures with remarkable accuracy even as it attempted to downplay the existence of climate change, new research shows.\n There's been a litany of evidence about how ExxonMobil rejected mainstream climate science, even though the company's own research and internal communications acknowledged that burning fossil fuels would cause global warming. Solid lines indicate predictions that ExxonMobil scientists arrived at using their own models, while dashed lines represent third-party research that ExxonMobil scientists reproduced in company documents.\n   To show just how good the company has been at predicting global warming, The Verge recreated one of the figures from the new research paper below.\n   By 2015, landmark investigations by Inside Climate News and the Los Angeles Times had unearthed many of the documents showing that the company had spent decades studying climate change but nevertheless sowed doubt about climate science.",
+            "source_name": "The Verge",
+            "url": "https://www.theverge.com/23550834/exxonmobil-climate-change-predictions-shockingly-accurate",
+            "date": "2023-01-12 20:22:23+00:00"
+        },
+        {
+            "title": "ExxonMobil Advances Major Low-Carbon Hydrogen Hub At Baytown",
+            "summary": "BAYTOWN, TX - ExxonMobil's Baytown Refinery near Houston, Texas. Getty Images\n\nExxonMobil XOM announced Monday a key step in the advancement of its plans to mount the largest low-carbon hydrogen production facility in the world, to be located at its mammoth Baytown Refinery near Houston, Texas. \u201cThis project allows us to offer significant volumes of low-carbon hydrogen and ammonia to third party customers in support of their decarbonization efforts,\u201d Dan Ammann, president of ExxonMobil Low Carbon Solutions, said in the company\u2019s release. ExxonMobil adds that, in coordination with the major carbon capture and storage (CCS) project it is developing in the Houston and Gulf Coast area, more than 98% of the associated CO2 produced by the facility will be captured and permanently stored, amounting to about 7 million metric tons of carbon dioxide each year. [+] company's planned low-carbon hydrogen production facility, which will be the largest in the world.",
+            "source_name": "Forbes",
+            "url": "https://www.forbes.com/sites/davidblackmon/2023/01/30/exxonmobil-advances-major-low-carbon-hydrogen-hub-at-baytown/",
+            "date": "2023-01-30 15:29:04+00:00"
+        },
+        {
+            "title": "ExxonMobil: Oil giant predicted climate change in 1970s - scientists",
+            "summary": "Climate change is making extreme weather including flooding more likely, scientists say\n One of the world's largest oil companies accurately forecast how climate change would cause global temperature to rise as long ago as the 1970s, researchers claim.\n   A chart that researchers say compares ExxonMobil's predictions of temperature rise with actual temperature increase\n  \"Their excellent climate modelling was at least comparable in performance to one of the most influential and well-regarded climate scientists of modern history,\" Prof Supran said, comparing ExxonMobil's work to Nasa's James Hansen who sounded the alarm on climate in 1988.\n   Europe and polar regions bear brunt of warming in 2022\n  What do scientists actually want?\n  HSBC to end new funding for oil and gas fields\n  The research, published in the academic journal Science, also suggests that ExxonMobil had reasonable estimates for how emissions would need to be reduced in order to avoid the worst effects of climate change in a world warmed by 2C or more.\n   \"It really underscores the stark hypocrisy of ExxonMobil leadership, who knew that their own scientists were doing this very high quality modelling work and had access to that privileged information while telling the rest of us that climate models were bunk,\" Naomi Oreskes, professor of the history of science at Harvard University, told BBC News.\n   Prof Oreskes and Prof Supran carried out the research after journalists in 2015 uncovered evidence suggesting ExxonMobil's knew about climate change, but were accused by ExxonMobil of \"cherry-picking\" the truth.",
+            "source_name": "Yahoo",
+            "url": "https://news.yahoo.com/exxonmobil-oil-giant-predicted-climate-190036939.html",
+            "date": "2023-01-12 20:06:04+00:00"
+        },
+        {
+            "title": "ExxonMobil Emphasizes Hydrogen, CCS In Low Carbon Solutions Spotlight",
+            "summary": "Darren Woods, Chairman and CEO of ExxonMobil, speaks during CERAWeek, an international energy ... AFP via Getty Images\n\nDuring a session highlighting its Low Carbon Business Solutions (LCS) business unit Tuesday, executives from ExxonMobil XOM highlighted major opportunities located in Texas and Louisiana in the unit\u2019s current business plan, with a special focus on hydrogen and carbon capture and storage (CCS) projects along the Gulf Coast. \u201cThese are projects that work with today\u2019s policies, today\u2019s technology and today\u2019s infrastructure, and to demonstrate that these policies can attract customers and earn solid returns.\u201d\n\nBoth Amman and Woods pointed out that the company\u2019s carbon reduction efforts today are focused both on its own operations (where Exxon recently announced it would eliminate 100% of its incidental natural gas flaring in the Permian Basin) and on sectors that are hard to decarbonize, such as heavy industry, commercial transportation and power generation. \"Working with ExxonMobil as the carbon dioxide off-taker at our Beaumont project supports Linde's strategy to decarbonize customer processes while safely and reliably supplying low-carbon hydrogen at scale. In addition to the company\u2019s planned major CCS hub project centered on the Houston Ship Channel corridor, where it is currently developing plans to capture and store emissions from dozens of heavy industrial facilities, Amman and his team see other potential hubs along the coast in places like Beaumont, Lake Charles, Louisiana, and the Baton Rouge/New Orleans corridor along the Mississippi River Delta.",
+            "source_name": "Forbes",
+            "url": "https://www.forbes.com/sites/davidblackmon/2023/04/04/exxonmobil-emphasizes-hydrogen-ccs-in-low-carbon-solutions-spotlight/",
+            "date": "2023-04-04 17:29:06+00:00"
+        },
+        {
+            "title": "ExxonMobil (XOM) Expects Its Low-Carbon Business to Surpass Oil",
+            "summary": "Exxon Mobil Corporation XOM believes that its low-carbon business has the potential to generate handsome earnings and outperform its traditional hydrocarbon business in a decade.\n  Phillips 66 PSX reported fourth-quarter 2022 adjusted earnings of $4 per share, missing the Zacks Consensus Estimate of $4.34. WHD reported fourth-quarter adjusted earnings of 57 cents per share, beating the Zacks Consensus Estimate of 51 cents. Marathon Petroleum Corporation 's MPC adjusted earnings per share of $6.65 comfortably beat the Zacks Consensus Estimate of $5.54. Investors interested in the energy sector might look at the following companies that presently buy a Zacks Rank #2 (Buy).",
+            "source_name": "Yahoo! Finance News",
+            "url": "https://finance.yahoo.com/news/exxonmobil-xom-expects-low-carbon-132001946.html",
+            "date": "2023-04-06 16:01:01+00:00"
+        },
+        {
+            "title": "ExxonMobil Awards FEED for World's Largest Low-Carbon Hydrogen Facility",
+            "summary": "\"In addition, the project is expected to enable up to a 30% reduction in Scope 1 and 2 emissions from our Baytown integrated complex, by switching from natural gas as a fuel source to low-carbon hydrogen.\"\n  ExxonMobil will pair the world's largest low-carbon hydrogen facility with the largest olefins plant in the United States to deliver more sustainable, lower-emissions products for customers and society.\n   ExxonMobil's Baytown low-carbon hydrogen, ammonia and carbon capture facility is expected to produce one billion cubic feet of low-carbon hydrogen per day, making it the largest low-carbon hydrogen project in the world at planned startup in 2027-2028.\n   \"This project allows us to offer significant volumes of low-carbon hydrogen and ammonia to third party customers in support of their decarbonization efforts,\" said Dan Ammann, president of ExxonMobil Low Carbon Solutions. ExxonMobil has awarded the contract to Technip Energies who will be responsible for the next stage of front-end engineering and design of the low-carbon hydrogen project.",
+            "source_name": "Yahoo! Finance News",
+            "url": "https://finance.yahoo.com/news/exxonmobil-awards-feed-world-largest-133000580.html",
+            "date": "2023-01-30 14:15:32+00:00"
+        },
+        {
+            "title": "ExxonMobil predicted climate change while downplaying risk | Climate Crisis News - Al Jazeera English",
+            "summary": "US-based oil company\u2019s own scientists accurately predicted global warming as far back as the 1970s, study says.\n\n ExxonMobil publicly sowed doubt about climate change despite the oil giant\u2019s own scientists accurately predicting global warming as far back as the 1970s, a new study says.\n\n ExxonMobil says the \u201cExxonKnew\u201d movement is a \u201ccoordinated campaign\u201d working to \u201cstigmatize\u201d the oil company, \u201ccreating the false appearance that ExxonMobil has misrepresented its company research and investor disclosures on climate change to the public\u201d.\n\n \u201cThey modelled and predicted global warming with shocking accuracy and skill, only for the company to spend the next couple of decades denying that very climate science,\u201d said Geoffrey Supran, a co-author of the study.\n\n While ExxonMobil publicly claimed models used to predict climate change were too uncertain to draw conclusions, the company\u2019s own experts made projections consistent with those of academics and governments, according to the paper published in the journal Science on Thursday.",
+            "source_name": "Google News Canada",
+            "url": "https://news.google.com/__i/rss/rd/articles/CBMibGh0dHBzOi8vd3d3LmFsamF6ZWVyYS5jb20vZWNvbm9teS8yMDIzLzEvMTMvZXh4b25tb2JpbC1wcmVkaWN0ZWQtY2xpbWF0ZS1jaGFuZ2Utd2hpbGUtZG93bnBsYXlpbmctcmlzay1zdHVkedIBAA?oc=5",
+            "date": "2023-01-13 21:29:23+00:00"
+        },
+        {
+            "title": "ExxonMobil, Toyota test low-carbon fuel blends for petrol engines",
+            "summary": "The fuels are \u201cvery much at the test phase\u201d and would require government policy support before becoming commercially available, Exxon's vice president said.\n  Exxon Mobil Corp. and Toyota Motor Corp. formed a partnership to test out low-carbon fuels in gasoline engines, potentially offering a way for drivers to reduce emissions without upgrading to an electric vehicle.\n   The fuel blends are made from cleaner feedstocks such as renewable biomass and ethanol and could one day cut greenhouse gas emissions from internal combustion engines by as much as 75% compared with regular gasoline, Andrew Madden, Exxon's vice president for strategy and planning, said in a Wednesday interview, citing initial trial results. The fuels are \u201cvery much at the test phase\u201d and would require government policy support before becoming commercially available, Madden said. \u201cHaving a solution for liquid fuels that we can use in the existing fleet, having it in the kind of policy construct where we allow the market to innovate, is the lowest cost way to decarbonize transportation.\u201d",
+            "source_name": "Hindustan Times",
+            "url": "https://www.hindustantimes.com/car-bike/exxonmobil-toyota-test-low-carbon-fuel-blends-for-petrol-engines-101681391020171.html",
+            "date": "2023-04-13 14:15:30+00:00"
+        },
+        {
+            "title": "ExxonMobil Is Considering a Big Splash to Enhance Its Low Carbon Ambitions",
+            "summary": "Shares of\u00a0Denbury Resources\u00a0(DEN 6.82%) rocketed in recent weeks. The company's capture and sequestration activities enable it to offset about a quarter of the emissions produced from its oil output, giving its production much lower carbon intensity.\u00a0 \n\n Instead, what Denbury brings to the table is extensive expertise in carbon capture and storage (CCS) and enhanced oil recovery (EOR). Shares of the oil company focused on utilizing carbon dioxide have spiked more than 60% from their bottom in late July, fueled by acquisition speculation and higher oil prices.\u00a0\n\n It could build off that company's expensive infrastructure and expertise to enhance its lower carbon oil ambitions.",
+            "source_name": "The Motley Fool",
+            "url": "https://www.fool.com/investing/2022/10/11/exxon-mobil-is-considering-a-big-splash-to-enhance/?source=iedfolrf0000001",
+            "date": "2022-10-11 10:35:58+00:00"
+        },
+        {
+            "title": "FuelCell Energy Takes Step Toward Commercializing Carbon Capture Technology with ExxonMobil",
+            "summary": "DANBURY, Conn., May 01, 2023 (GLOBE NEWSWIRE) -- FuelCell Energy, Inc. (Nasdaq: FCEL) has received an order from ExxonMobil for long-lead fuel cell stack module equipment and engineering support required to implement a potential demonstration of modular point source carbon capture at an ExxonMobil facility. \u201cFuelCell Energy continues to gain confidence in achieving large scale commercialization of FuelCell Energy's carbonate technology for industrial and commercial point source carbon capture. The commercial demonstration project is anticipated to be a full scale prototype of the modules used in large-scale systems for industrial and commercial point source carbon capture applications.\n  \u201cWe see market demand across various commercial and industrial segments to scale and commercialize our unique carbon capture solution, which captures carbon dioxide from various exhaust streams, while generating additional power and hydrogen. We believe that this technology will address one of the largest environmental challenges of today, CO emissions from industrial and commercial exhaust streams and power generation,\u201d said Jason Few, President and Chief Executive Officer of FuelCell Energy.",
+            "source_name": "Yahoo! Finance News",
+            "url": "https://finance.yahoo.com/news/fuelcell-energy-takes-step-toward-120000293.html",
+            "date": "2023-05-01 12:34:36+00:00"
+        }
+    ]
+}
