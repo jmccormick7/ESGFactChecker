@@ -8,24 +8,26 @@ export default class App extends React.Component {
     this.state = {
       tweets: [],
       author: "",
-      tweet: ""
+      tweet: "",
     };
   }
 
-  componentDidMount(){
-    fetch('/api/messages').then(res => {
-      return res.json();
-    }).then(data => {
-      var newTweets = [];
+  componentDidMount() {
+    fetch("/api/messages")
+      .then((res) => {
+        return res.json();
+      })
+      .then((data) => {
+        var newTweets = [];
 
-      for(var i=0;i<Object.keys(data).length;i++){
-        newTweets.push(data[i]);
-      }
+        for (var i = 0; i < Object.keys(data).length; i++) {
+          newTweets.push(data[i]);
+        }
 
-      this.setState((prevState) => ({
-        tweets: newTweets
-      }))
-    });
+        this.setState((prevState) => ({
+          tweets: newTweets,
+        }));
+      });
   }
 
   handleAuthorChange = (event) => {
@@ -37,36 +39,41 @@ export default class App extends React.Component {
   };
 
   handleSubmit = () => {
-    fetch('/api/add', { 
-      method: 'POST', 
-      headers: { 'Content-Type': 'application/json' }, 
-      body: JSON.stringify({author: this.state.author, tweet: this.state.tweet})
-    }).then(res => {
-      return res.json();
-    }).then(data => {
-      var tweetId = data.id;
-      this.setState((prevState) => ({
-        tweets: [
-          ...prevState.tweets,
-          {
-            id: tweetId,
-            author: prevState.author,
-            tweet: prevState.tweet
-          }
-        ],
-        tweet: ""
-      }));
+    fetch("/api/add", {
+      method: "POST",
+      headers: { "Content-Type": "application/json" },
+      body: JSON.stringify({
+        author: this.state.author,
+        tweet: this.state.tweet,
+      }),
     })
+      .then((res) => {
+        return res.json();
+      })
+      .then((data) => {
+        var tweetId = data.id;
+        this.setState((prevState) => ({
+          tweets: [
+            ...prevState.tweets,
+            {
+              id: tweetId,
+              author: prevState.author,
+              tweet: prevState.tweet,
+            },
+          ],
+          tweet: "",
+        }));
+      });
   };
 
   handleDelete = (id) => {
-    fetch('/api/delete/' + id, {
-      method: 'DELETE',
-    })
+    fetch("/api/delete/" + id, {
+      method: "DELETE",
+    });
     this.setState((prevState) => ({
-      tweets: prevState.tweets.filter((twt) => twt.id != id)
+      tweets: prevState.tweets.filter((twt) => twt.id != id),
     }));
-  }
+  };
 
   render() {
     const author = this.state.author;
@@ -108,7 +115,13 @@ export default class App extends React.Component {
                 <div className="tweet" key={"tweet" + idx}>
                   <div className="tweet-top">
                     <h4>{tweet.author}</h4>
-                    <button className="delete-button" key={"button" + idx} onClick = {() => this.handleDelete(tweet.id)}>🗑️</button>
+                    <button
+                      className="delete-button"
+                      key={"button" + idx}
+                      onClick={() => this.handleDelete(tweet.id)}
+                    >
+                      🗑️
+                    </button>
                   </div>
                   <p>{tweet.tweet}</p>
                 </div>
