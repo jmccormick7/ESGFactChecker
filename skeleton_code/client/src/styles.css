@@ -19,6 +19,22 @@ body {
   margin-bottom: 20px;
 }
 
+.header {
+  font-family: "Prata", serif;
+  color: white;
+  font-size: 30px;
+  /* text-align: center; */
+  margin-bottom: 5px;
+}
+
+.text {
+  font-family: "Prata", serif;
+  /* color: white; */
+  font-size: 18px;
+  /* text-align: center; */
+  margin-bottom: 20px;
+}
+
 #root {
   flex: 1;
 }
